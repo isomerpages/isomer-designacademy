@@ -5,7 +5,7 @@ links:
   - title: Example Page
     url: /example-page/
   - title: Folder Option
-    collection: sept-test
+    collection: example-folder
   - title: Submenu Option
     url: /sept-test1/
     sublinks:
