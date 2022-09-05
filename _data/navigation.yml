@@ -13,3 +13,8 @@ links:
         url: /sept-test1/
       - title: Submenu 2
         url: /sept-test2/
+  - title: submenu option 2
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
