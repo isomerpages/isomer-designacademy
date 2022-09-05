@@ -36,4 +36,9 @@ sections:
       url: www.google.com
       image: /images/hero-banner.png
       alt: Image alt text
+  - infobar:
+      title: test 2
+      subtitle: "test "
+      description: Infobar description
+      button: Button Text
 ---
