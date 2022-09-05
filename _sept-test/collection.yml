@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - sept test title.md
-      - faq.md
       - example-page.md
