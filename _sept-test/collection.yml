@@ -1,5 +1,5 @@
 collections:
-  test:
+  sept-test:
     output: true
     order:
       - sept test title.md
