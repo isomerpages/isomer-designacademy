@@ -2,4 +2,5 @@ collections:
   test:
     output: true
     order:
+      - faq.md
       - example-page.md
