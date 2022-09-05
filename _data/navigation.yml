@@ -4,12 +4,12 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Example Folder
+  - title: Folder Option
     collection: sept-test
-  - title: submenu
-    url: /permalink
+  - title: Submenu Option
+    url: /sept-test1/
     sublinks:
       - title: Submenu 1
-        url: /permalink
+        url: /sept-test1/
       - title: Submenu 2
-        url: /permalink
+        url: /sept-test2/
