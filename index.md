@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
-          url: /test/sept/
+          url: /sept-test1/
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
