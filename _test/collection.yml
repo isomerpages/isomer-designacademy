@@ -2,6 +2,6 @@ collections:
   test:
     output: true
     order:
-      - test title.md
+      - sept test title.md
       - faq.md
       - example-page.md
