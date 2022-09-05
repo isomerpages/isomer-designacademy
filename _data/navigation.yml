@@ -5,4 +5,11 @@ links:
   - title: Example Page
     url: /example-page/
   - title: Example Folder
-    collection: example-folder
+    collection: sept-test
+  - title: submenu
+    url: /permalink
+    sublinks:
+      - title: Submenu 1
+        url: /permalink
+      - title: Submenu 2
+        url: /permalink
