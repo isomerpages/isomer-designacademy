@@ -1,7 +1,0 @@
-collections:
-  folder:
-    output: true
-    order:
-      - Subfolder/Subfolder Page.md
-      - Subfolder/.keep
-      - Folder Page.md
