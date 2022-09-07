@@ -1,5 +1,5 @@
 collections:
-  a-folder:
+  others:
     output: true
     order:
       - A Page.md
