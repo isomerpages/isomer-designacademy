@@ -2,6 +2,6 @@ collections:
   folder:
     output: true
     order:
-      - folder-page.md
+      - Folder Page.md
       - Subfolder/.keep
       - Subfolder/subfolder-page.md
