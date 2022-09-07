@@ -1,6 +1,0 @@
-collections:
-  sept-test:
-    output: true
-    order:
-      - sept test 2.md
-      - sept test 1.md
