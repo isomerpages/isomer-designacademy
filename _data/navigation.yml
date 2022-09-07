@@ -4,8 +4,8 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Folder Option
-    collection: example-folder
+  - title: Folder
+    collection: folder
   - title: Submenu Option
     url: /sept-test1/
     sublinks:
