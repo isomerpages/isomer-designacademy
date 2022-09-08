@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Folder Page.md
-      - Subfolder B/Subfolder Page C.md
-      - Subfolder B/Subfolder Page B.md
       - Subfolder B/.keep
       - Subfolder B/Subfolder Page A.md
+      - Subfolder B/Subfolder Page B.md
+      - Subfolder B/Subfolder Page C.md
