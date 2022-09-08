@@ -4,4 +4,4 @@ collections:
     order:
       - Folder Page.md
       - Subfolder B/.keep
-      - Subfolder B/Subfolder Page.md
+      - Subfolder B/Subfolder Page A.md
