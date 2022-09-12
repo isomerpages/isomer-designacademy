@@ -1,19 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
+  - title: Page A
     url: /example-page/
+  - title: Page B
+    url: /contact-us/
   - title: Folder A
     collection: folder-a
-  - title: Submenu Option
-    url: /sept-test1/
-    sublinks:
-      - title: Submenu 1
-        url: /sept-test1/
-      - title: Submenu 2
-        url: /sept-test2/
-  - title: submenu option 2
+  - title: Folder B
+    collection: folder-a
+  - title: Submenu A
     url: /permalink
     sublinks:
       - title: Submenu Title
