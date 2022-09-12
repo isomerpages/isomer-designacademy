@@ -11,5 +11,9 @@ links:
   - title: Submenu A
     url: /permalink
     sublinks:
-      - title: Submenu Title
+      - title: Page A
+        url: /permalink
+      - title: Folder B
+        url: /permalink
+      - title: External Link
         url: /permalink
