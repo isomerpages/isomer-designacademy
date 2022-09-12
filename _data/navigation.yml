@@ -14,6 +14,6 @@ links:
       - title: Page A
         url: /permalink
       - title: Folder B
-        url: /permalink
+        url: /folderB
       - title: External Link
         url: /permalink
