@@ -51,4 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dsyletvf930s6.amplifyapp.com
 prod: https://master.dsyletvf930s6.amplifyapp.com
-resources_name: resource-room
+resources_name: resource-room-1
