@@ -17,3 +17,5 @@ links:
         url: /folderB
       - title: External Link
         url: /permalink
+  - title: Resources
+    resource_room: true
