@@ -29,18 +29,25 @@ sections:
       button: Button text
       url: /faq/
   - infopic:
-      title: Designing homepage
+      title: Insights & Research
+      description: Read about user's experiences and challenges on current school websites.
+      button: Learn more
+      url: /
+      alt: Image alt text
+  - infopic:
+      title: Content Structuring
+      subtitle: Infopic Subtitle
+      description: Learn how to effectively organise your content to provide better
+        user experience and retention.
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Designing your homepage
       subtitle: EDUCATION
-      description: Effective use of images, copywriting and structure can make your
-        website stand out. Here are some good examples of different Isomer
-        sites.
-      button: LEARN NOW
+      description: Learn how to create unique and engaging websites through effective
+        homepages.
+      button: LEARN MORE
       url: /homepage
       image: /images/hero-banner.png
       alt: Image alt text
-  - infobar:
-      title: test 2
-      subtitle: "test "
-      description: Infobar description
-      button: Button Text
 ---
