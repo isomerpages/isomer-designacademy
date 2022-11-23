@@ -1,0 +1,4 @@
+collections:
+  lesson-modules:
+    output: true
+    order: []
