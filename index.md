@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title test
-      subtitle: Hero subtitle
+      title: Isomer Academy
+      subtitle: Creating engaging Isomer sites through good web design practices.
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
@@ -23,10 +23,10 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Our Purpose
+      description: To help organisations better plan, design, and create engaging
+        websites for their needs through our education content.
+      button: learn more
       url: /faq/
   - infopic:
       title: Insights & Research
