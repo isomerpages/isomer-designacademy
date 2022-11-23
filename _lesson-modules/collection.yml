@@ -2,4 +2,5 @@ collections:
   lesson-modules:
     output: true
     order:
+      - Designing your homepage.md
       - Content Structuring.md
