@@ -2,6 +2,7 @@ collections:
   lesson-modules:
     output: true
     order:
+      - Accessibility Considerations.md
       - Website Planning.md
       - Homepage Design.md
       - Content Structure.md
