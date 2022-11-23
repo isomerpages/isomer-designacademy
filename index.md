@@ -39,7 +39,7 @@ sections:
       subtitle: Infopic Subtitle
       description: Learn how to effectively organise your content to provide better
         user experience and retention.
-      button: Button Text
+      button: Learn more
       alt: Image alt text
       url: /content/
   - infopic:
