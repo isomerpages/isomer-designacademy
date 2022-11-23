@@ -29,11 +29,13 @@ sections:
       button: Button text
       url: /faq/
   - infopic:
-      title: hello
-      subtitle: subtitle
-      description: meh meh meh
-      button: BEW BUTON
-      url: www.google.com
+      title: Designing homepage
+      subtitle: EDUCATION
+      description: Effective use of images, copywriting and structure can make your
+        website stand out. Here are some good examples of different Isomer
+        sites.
+      button: LEARN NOW
+      url: /homepage
       image: /images/hero-banner.png
       alt: Image alt text
   - infobar:
