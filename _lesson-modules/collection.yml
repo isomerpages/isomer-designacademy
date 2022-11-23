@@ -2,9 +2,9 @@ collections:
   lesson-modules:
     output: true
     order:
-      - Other Good Practices.md
-      - Accessibility Considerations.md
       - Website Planning.md
-      - Homepage Design.md
       - Content Structure.md
+      - Homepage Design.md
       - Page Content Design.md
+      - Accessibility Considerations.md
+      - Other Good Practices.md
