@@ -41,6 +41,7 @@ sections:
         user experience and retention.
       button: Button Text
       alt: Image alt text
+      url: /content/
   - infopic:
       title: Designing your homepage
       subtitle: EDUCATION
