@@ -1,4 +1,5 @@
 collections:
   lesson-modules:
     output: true
-    order: []
+    order:
+      - Content Structuring.md
