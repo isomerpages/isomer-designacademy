@@ -2,7 +2,7 @@ collections:
   lesson-modules:
     output: true
     order:
-      - Page Content Design.md
       - Website Planning.md
       - Homepage Design.md
       - Content Structure.md
+      - Page Content Design.md
