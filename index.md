@@ -10,7 +10,6 @@ sections:
       title: Isomer Academy
       subtitle: Creating engaging Isomer sites through good web design practices.
       background: /images/hero-banner.png
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Highlight A
@@ -23,9 +22,9 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Our Purpose
-      description: To help organisations better plan, design, and create engaging
-        websites for their needs through our education content.
+      title: Do more with your website
+      description: Isomer academy aims to help organisations better plan, design, and
+        create effective websites through educational content.
       button: learn more
       url: /faq/
   - infopic:
@@ -35,18 +34,17 @@ sections:
       url: /
       alt: Image alt text
   - infopic:
-      title: Content Structuring
+      title: Learning Modules
       subtitle: Infopic Subtitle
-      description: Learn how to effectively organise your content to provide better
-        user experience and retention.
+      description: Learn how to effectively organise content and design webpages for a
+        better website experience.
       button: Learn more
       alt: Image alt text
       url: /content/
   - infopic:
-      title: Designing your homepage
-      subtitle: EDUCATION
-      description: Learn how to create unique and engaging websites through effective
-        homepages.
+      title: Usability Checklist
+      description: Run through our usability list to ensure that your Isomer site is
+        ready to go.
       button: LEARN MORE
       url: /homepage
       image: /images/hero-banner.png
