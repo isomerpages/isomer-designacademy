@@ -3,7 +3,7 @@ title: Website Planning
 permalink: /lesson-modules/website-planning/
 description: ""
 ---
-#### Basics of website planning #### 
+### Basics of website planning ### 
 To create an effective website, it is important to first plan on the type of content you need to have. This can be narrowed down to three main factors:
 
 **Who is your main audience?**
@@ -17,7 +17,7 @@ To create an effective website, it is important to first plan on the type of con
     
  * Once your website objective has been identified, think about how you can translate that into content on the website. Do note that having too much information would hinder users from what’s important.
 
-#### Examples of well-planned websites
+### Examples of well-planned websites
 Take a look at [covid.gov.sg](http://covid.gov.sg) as an example. We can easily break down their website using the same framework:
 
 *   **Audience** - People are suspected to have or have COVID-19
@@ -32,4 +32,4 @@ Another good example is the [Singapore Institute of Retail Studies’](https://w
 *   **Objective** - To inform audiences about their services and provide related industry updates
 *   **Focus** - Different programmes categories are featured at the top
 
-![](https://i.imgur.com/m4054zN.png)
+![](https://i.imgur.com/GYjFOTS.png)
