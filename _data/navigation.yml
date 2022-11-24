@@ -1,11 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Page A
-    url: /example-page/
-  - title: Page B
-    url: /contact-us/
-  - title: Folder A
-    collection: folder-a
   - title: Folder B
     collection: folder-a
   - title: Submenu A
@@ -21,3 +15,5 @@ links:
     resource_room: true
   - title: Lesson
     collection: lesson-modules
+  - title: Usability Checklist
+    url: /example-page/
