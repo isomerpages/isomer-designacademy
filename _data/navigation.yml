@@ -1,19 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Folder B
-    collection: folder-a
-  - title: Submenu A
+  - title: About
     url: /permalink
-    sublinks:
-      - title: Page A
-        url: /permalink
-      - title: Folder B
-        url: /folderB
-      - title: External Link
-        url: /permalink
-  - title: Resources
-    resource_room: true
-  - title: Lesson
+  - title: Learning Modules
     collection: lesson-modules
   - title: Usability Checklist
     url: /example-page/
+  - title: Other resources
+    url: /permalink
