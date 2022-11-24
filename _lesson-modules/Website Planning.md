@@ -23,6 +23,8 @@ Take a look at [covid.gov.sg](http://covid.gov.sg) as an example. We can easily 
 *   Objective - To inform the target audience on the steps they need to take according to their symptoms.
 *   Focus - 4 key pages with specific information based on the person’s situation.
 
+![](https://i.imgur.com/LHGnh9L.png)
+
 Another good example is the [Singapore Institute of Retail Studies’](https://www.sirs.edu.sg/) website:
 
 *   Main audience - People that might be interested in their programmes
