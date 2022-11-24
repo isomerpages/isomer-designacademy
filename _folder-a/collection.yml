@@ -1,9 +1,0 @@
-collections:
-  folder-a:
-    output: true
-    order:
-      - Folder Page.md
-      - Subfolder B/.keep
-      - Subfolder B/Subfolder Page A.md
-      - Subfolder B/Subfolder Page B.md
-      - Subfolder B/Subfolder Page C.md
