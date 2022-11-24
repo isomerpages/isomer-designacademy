@@ -30,3 +30,5 @@ Another good example is the [Singapore Institute of Retail Studies’](https://w
 *   Main audience - People that might be interested in their programmes
 *   Objective - To inform audiences about their services and provide related industry updates
 *   Focus - Different programmes categories are featured at the top
+
+![](https://i.imgur.com/m4054zN.png)
