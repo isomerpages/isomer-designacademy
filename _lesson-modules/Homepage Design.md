@@ -15,7 +15,7 @@ Isomer features a variety of homepage templates for users to customise how they 
 
 Effective use of images, copywriting and structure can make your website stand out. Here are some good examples of how customisable Isomer sites can be.
 
-![](https://i.imgur.com/NNosrhd.png)
+![](https://i.imgur.com/FuC2Mbj.png)
 
 Key principles for the homepage:
 
