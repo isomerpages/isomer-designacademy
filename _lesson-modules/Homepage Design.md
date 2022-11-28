@@ -3,7 +3,6 @@ title: Homepage Design
 permalink: /lesson-modules/homepage-design/
 description: ""
 ---
-
 ### Importance of a homepage ### 
 A homepage is the first thing that visitors would see. It affects their initial impression of your brand or website and plays an important role in engaging your audiences.
 
@@ -15,6 +14,8 @@ Your homepage is akin to your storefront, be sure to highlight key items that yo
 Isomer features a variety of homepage templates for users to customise how they portray their content.
 
 Effective use of images, copywriting and structure can make your website stand out. Here are some good examples of how customisable Isomer sites can be.
+
+!\[\](https://i.imgur.com/NNosrhd.png)
 
 Key principles for the homepage:
 
