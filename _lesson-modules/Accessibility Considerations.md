@@ -3,6 +3,18 @@ title: Accessibility Considerations
 permalink: /lesson-modules/accessibility-considerations/
 description: ""
 ---
+#### What is accessibility?
+#### 
+Accessibility is the practice to make a product or service usable and meaningful to as many people as possible, in whichever ways they encounter it.
+
+Think about it this way, if you have a physical store, you would want to ensure that customers using mobility devices like wheelchairs are able to enter and browse easily on their own. As much as possible, their experience should not be limited due to their disability.
+
+Similarly, the idea of accessibility should be applied to your websites as well.
+
+Be it a new user looking for information or a visually impaired person, we want to make sure that our users can easily accomplish what they need to do on our website.
+
+**Guidelines for accessibility:**
+
 Using alt-text for images
 
 *   Ensure that all non-text items have a text alternative so that visually-impaired users can understand them through a screen reader.
