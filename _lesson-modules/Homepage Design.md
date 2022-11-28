@@ -24,11 +24,14 @@ Key principles for the homepage:
 *   Helps users navigate across the site
 
 ### Good homepage practices ###
-_Showcase key information only_
 
+
+**Focus on the key information**
 *   Refrain from over-cluttering the homepage with information. Emphasise the subject with a short copy and keep longer details on a separate page instead.
 *   The information available on the homepage should help users get to where they need.
-*   \[example\]
+
+The example below shows how Singapore Prison Service uses concise copy to introduce different projects on its homepage.
+![](https://i.imgur.com/L0utKdr.png)
 
 _Customise your hero banner image_
 
