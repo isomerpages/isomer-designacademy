@@ -21,12 +21,14 @@ Key principles for the homepage:
 *   Content should be easily readable
 *   Helps users navigate across the site
 
-### Good homepage practices ###
+### Best homepage practices ###
 
 
 **Focus on the key information**
-*   Refrain from over-cluttering the homepage with information. Emphasise the subject with a short copy and keep longer details on a separate page instead.
-*   The information available on the homepage should help users get to where they need.
+
+* Refrain from over-cluttering the homepage with information. Emphasise the subject with a short copy and keep longer details on a separate page instead.
+
+* The information available on the homepage should help users get to where they need.
 
 The example below shows how Singapore Prison Service uses concise copy to introduce different projects on its homepage.
 ![](https://i.imgur.com/L0utKdr.png)
@@ -65,3 +67,5 @@ In this example, SGTogether uses vibrant, cheerful images of citizens working to
 **Descriptive names for buttons and links**
 *   Provide descriptive names for your buttons and links. For example, use words like “Learn More” or “Our Approach”, rather than something generic like “Click Here”.
 *   This helps to provide users with context to better know what to expect when clicking in. It can also be used as a Call-to-Action prompt to garner better engagement.
+
+
