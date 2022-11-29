@@ -63,7 +63,5 @@ In this example, SGTogether uses vibrant, cheerful images of citizens working to
 \[examples of effective isomer homepages\]
 
 **Descriptive names for buttons and links**
-
-*   Make buttons or text links more effective by using descriptive and unique names. For example, using “Learn More” or “Our Approach” rather than just “Click Here”.
-*   This provides a relevant Call-to-Action while allowing users to better know what to expect when clicking on it.
-*   Descriptive names are also important for those using screen readers, as they provide context describing where the link leads to.
+*   Provide descriptive names for your buttons and links. For example, use words like “Learn More” or “Our Approach”, rather than something generic like “Click Here”.
+*   This helps to provide users with context to better know what to expect when clicking in. It can also be used as a Call-to-Action prompt to garner better engagement.
