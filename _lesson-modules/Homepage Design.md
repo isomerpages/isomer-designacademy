@@ -33,13 +33,17 @@ Key principles for the homepage:
 The example below shows how Singapore Prison Service uses concise copy to introduce different projects on its homepage.
 ![](https://i.imgur.com/L0utKdr.png)
 
-_Customise your hero banner image_
+**Creating an effective hero banner**
 
-Having a hero banner image that fits your website and copy can go a long way in how your website looks.
+*   Another key aspect of every homepage is the hero banner, as it is the first thing that most people would see. An impactful hero banner image has the ability to inform viewers about your products, services, and mission at a glance.
+*   Avoid low-quality images that would look blurry in bigger dimensions.
+*   \[example\]
+*   Do note that hero banner images have a default dark overlay when uploaded to maintain proper color contrast that adheres to accessibility standards.
+*   Keep your hero banner images engaging, relevant, and clear. Use images or colors that strongly represent your brand or values. Make sure both the image and copy are closely aligned with what you want to convey.
 
-*   Use images that are engaging, relevant, and clear. Hero banner images should align with your organisation and the hero banner copy.
-*   Avoid using low-quality images as they would be easily noticeable.
-*   Hero banner images have a dark overlay by default to ensure proper contrast between text and background for optimal readability.
+In this example, we can see how SGTogether uses vibrant, cheerful images of citizens working together to convey a sense of partnership and support.
+![](https://i.imgur.com/qkw7tA2.png)
+
 
 _Use more images_
 
