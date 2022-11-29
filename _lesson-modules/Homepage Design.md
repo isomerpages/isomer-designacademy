@@ -39,35 +39,30 @@ The example below shows how Singapore Prison Service uses concise copy to introd
 *   Do note that hero banner images have a default dark overlay when uploaded to maintain proper color contrast that adheres to accessibility standards.
 *   Keep your hero banner images engaging, relevant, and clear. Use images or colors that strongly represent your brand or values. Make sure both the image and copy are closely aligned with what you want to convey.
 
-In this example, we can see how SGTogether uses vibrant, cheerful images of citizens working together to convey a sense of partnership and support.
+In this example, SGTogether uses vibrant, cheerful images of citizens working together to convey a sense of partnership and support.
 ![](https://i.imgur.com/qkw7tA2.png)
 
 
-_Use more images_
+**Placing effective images**
 
-*   Good use of images helps make your site easier to read as it breaks up and provides complimentary visual content for your texts.
-*   Images used should be:
-    *   Relevant to your content
-    *   High-quality and not blurry
-    *   Consistent across the page
+*   Adding images helps improves site readability as it breaks up and provides complimenting visuals to your texts.
+*   Avoid low-quality images that may look pixelated in larger dimensions.
+*   The style of images should remain consistent across the page. For example, all graphics used should follow a consistent pattern or color palette.
+*   Use relevant images to aid and provide better context for your content.
 
-_Use effective copywriting_
+**Using effective copywriting**
 
 *   Create copies that are both functional and engaging to get your audience's attention. Make full use of your title texts to highlight key details or value propositions you want to convey.
-*   Think about using more creative copies that relate to your brand/organisation. For example:
-    *   About us –> OGP Approach
-    *   Our values —> OGP Values
+*   Think about using creative copies that can further incorporate your brand identity.
+*   For example, using the OGP approach instead of our approach, or using the OGP values instead of our values. \[image\]
 
-_Make full use of the homepage templates_
+**Fully utilising the homepage**
 
-*   Fully utilise your homepage by using the different templates available to creatively convey information.
-*   Infopics can be used to pair your information with effective images.
-    *   (give examples)
-    *   \[infopic with video\]
+*   Your homepage is more than just the hero banner! Make full use of different homepage templates to creatively convey information.
 
 \[examples of effective isomer homepages\]
 
-_Descriptive names for buttons and links_
+**Descriptive names for buttons and links**
 
 *   Make buttons or text links more effective by using descriptive and unique names. For example, using “Learn More” or “Our Approach” rather than just “Click Here”.
 *   This provides a relevant Call-to-Action while allowing users to better know what to expect when clicking on it.
