@@ -31,7 +31,7 @@ Key principles for the homepage:
 The example below shows how Singapore Prison Service uses concise copy to introduce different projects on its homepage.
 ![](https://i.imgur.com/L0utKdr.png)
 
-**Creating an effective hero banner**
+**Create an effective hero banner**
 
 *   Another key aspect of every homepage is the hero banner, as it is the first thing that most people would see. An impactful hero banner image has the ability to inform viewers about your products, services, and mission at a glance.
 *   Avoid low-quality images that would look blurry in bigger dimensions.
@@ -43,20 +43,20 @@ In this example, SGTogether uses vibrant, cheerful images of citizens working to
 ![](https://i.imgur.com/qkw7tA2.png)
 
 
-**Placing effective images**
+**Place effective images**
 
 *   Adding images helps improves site readability as it breaks up and provides complimenting visuals to your texts.
 *   Avoid low-quality images that may look pixelated in larger dimensions.
 *   The style of images should remain consistent across the page. For example, all graphics used should follow a consistent pattern or color palette.
 *   Use relevant images to aid and provide better context for your content.
 
-**Using effective copywriting**
+**Use effective copywriting**
 
 *   Create copies that are both functional and engaging to get your audience's attention. Make full use of your title texts to highlight key details or value propositions you want to convey.
 *   Think about using creative copies that can further incorporate your brand identity.
 *   For example, using the OGP approach instead of our approach, or using the OGP values instead of our values. \[image\]
 
-**Fully utilising the homepage**
+**Fully utilise the homepage**
 
 *   Your homepage is more than just the hero banner! Make full use of different homepage templates to creatively convey information.
 
