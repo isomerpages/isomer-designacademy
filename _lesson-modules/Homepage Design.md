@@ -11,9 +11,7 @@ More importantly, it is also the page they use to navigate to other parts of you
 Your homepage is akin to your storefront, be sure to highlight key items that you would want your audience to immediately know.
 
 ### Designing the homepage ### 
-Isomer features a variety of homepage templates for users to customise how they portray their content.
-
-Effective use of images, copywriting and structure can make your website stand out. Here are some good examples of how customisable Isomer sites can be.
+Isomer features a variety of homepage templates for users to customise how they portray their content. Effective use of images, copywriting and structure can make your website stand out. Here are some good examples of how customisable Isomer sites can be.
 
 ![](https://i.imgur.com/FuC2Mbj.png)
 
