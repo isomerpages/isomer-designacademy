@@ -6,7 +6,7 @@ description: ""
 ### Importance of a homepage ### 
 A homepage is the first thing that visitors would see. It affects their initial impression of your brand or website and plays an important role in engaging your audiences.
 
-More importantly, it is also the page they use to navigate to other parts of your website. Thus, it is important that a homepage should not only be engaging and relevant but also clear and easy to navigate.
+More importantly, it is also used to navigate to other parts of your website. Thus, it is important that a homepage should not only be engaging and relevant but also clear and easy to navigate.
 
 Your homepage is akin to your storefront, be sure to highlight key items that you would want your audience to immediately know.
 
@@ -28,7 +28,7 @@ Key principles for the homepage:
 
 * Refrain from over-cluttering the homepage with information. Emphasise the subject with a short copy and keep longer details on a separate page instead.
 
-* The information available on the homepage should help users get to where they need.
+* The information available on the homepage should help users get to where they want.
 
 The example below shows how Singapore Prison Service uses concise copy to introduce different projects on its homepage.
 ![](https://i.imgur.com/L0utKdr.png)
@@ -67,5 +67,3 @@ In this example, SGTogether uses vibrant, cheerful images of citizens working to
 **Descriptive names for buttons and links**
 *   Provide descriptive names for your buttons and links. For example, use words like “Learn More” or “Our Approach”, rather than something generic like “Click Here”.
 *   This helps to provide users with context to better know what to expect when clicking in. It can also be used as a Call-to-Action prompt to garner better engagement.
-
-
