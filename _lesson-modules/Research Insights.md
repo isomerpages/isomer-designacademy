@@ -25,7 +25,7 @@ Our observations from the workshop:
 *   Noticed certain misconceptions and bad website practices by participants.
 
 
-### Insights from parent interviews
+### Key research insights
 
 **What are users looking for on school websites?**
 
@@ -43,20 +43,13 @@ Our observations from the workshop:
 **What users value in school websites:**
 
 *   Ease of use and convenience.
-
 Users value information that is available and upfront. High-level information can be easily found on the homepage. They want to be able to quickly scan for information.
 
-*   Well-structured navigation.
+*   Well-structured navigation. Users value clear navigation headers which help them to navigate across the site easily.
 
-Users value clear navigation headers which help them to navigate across the site easily.
+*   Relevant content. Users value information that is relevant and useful to them. Having excessive, duplicated, or outdated information does not help them.
 
-*   Relevant content
-
-Users value information that is relevant and useful to them. Having excessive, duplicated, or outdated information does not help them.
-
-*   Engaging & visual content
-
-Users value pictures and graphics that can give them a better sense of the school environment and culture.
+*   Engaging & visual content. Users value pictures and graphics that can give them a better sense of the school environment and culture.
 
 **Role of the school website for users:**
 
@@ -64,6 +57,7 @@ Users value pictures and graphics that can give them a better sense of the schoo
 *   To be a source of relevant and updated information for the latest happenings.
 *   To get a feel of the school’s culture, identity, and offerings.
 
+### Other insights ### 
 **Pop-ups are not user-friendly**
 
 *   Pop-ups are intrusive to users, especially if the content is outdated or irrelevant.
