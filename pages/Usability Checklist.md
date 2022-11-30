@@ -3,7 +3,7 @@ title: Usability Checklist
 permalink: /usability-checklist/
 description: ""
 ---
-Homepage
+#### Homepage
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
@@ -12,7 +12,7 @@ Homepage
 
 
 
-Accessibility
+#### Accessibility
 | Column 1 | Column 2 | 
 | -------- | -------- |
 | 1.  | Use descriptive texts in buttons and links    |
