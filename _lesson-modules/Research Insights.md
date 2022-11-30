@@ -7,8 +7,7 @@ description: ""
 
 Over the past few months, the Isomer team has worked closely with both parents & schools to learn more about their experiences with school websites. Through our research, the team uncovered many useful insights that we hope to convey to our users to help them create more effective Isomer sites.
 
-**Parent interviews** 
-
+**Parent interviews**   
 Conducted 20 interviews with parents to hear their thoughts, challenges, and experiences interacting with various school websites.
 
 We asked parents key questions such as:
@@ -17,14 +16,14 @@ We asked parents key questions such as:
 *   What are some difficulties faced on school websites?
 *   What do you prioritise in a school website?
 
-**School co-creation workshop**
-
+**School co-creation workshop**   
 Hosted workshops for schools to co-create new Isomer ideas and templates with them. The team also went through a short lesson on good website practices with participants.
 
 Our observations from the workshop:
 
 *   Participants found the lesson on good website practices to be useful.
 *   Noticed certain misconceptions and bad website practices by participants.
+
 
 ### Insights from parent interviews
 
