@@ -26,11 +26,11 @@ Key principles for the homepage:
 
 **Focus on the key information**
 
-* Refrain from over-cluttering the homepage with information. Emphasise the subject with a short copy and keep longer details on a separate page instead.
+*   Refrain from over-cluttering the homepage with information. Having excessive or irrelevant information impedes users from finding what they need.
 
-* The information available on the homepage should help users get to where they want.
+*   Instead, highlight the subject with a short copy and save the longer details for a separate page instead.
 
-The example below shows how Singapore Prison Service uses concise copy to introduce different projects on its homepage.
+The example below shows how Singapore Prison Service uses concise copy to introduce projects on its homepage, with a seperate link for users to find out more.
 ![](https://i.imgur.com/L0utKdr.png)
 
 **Create an effective hero banner**
