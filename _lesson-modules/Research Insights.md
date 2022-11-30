@@ -42,12 +42,11 @@ Our observations from the workshop:
 
 **What users value in school websites:**
 
-*   Ease of use and convenience.
-Users value information that is available and upfront. High-level information can be easily found on the homepage. They want to be able to quickly scan for information.
+*   Ease of use and convenience. Users want information that is available and upfront, so that they can quickly scan for what they need on the homepage
 
-*   Well-structured navigation. Users value clear navigation headers which help them to navigate across the site easily.
+*   Straightforward navigation. Users value well-structured navigation headers as it helps them to navigate across the site easily and directs them to information they need.
 
-*   Relevant content. Users value information that is relevant and useful to them. Having excessive, duplicated, or outdated information does not help them.
+*   Relevant content. Users want information that is useful and relevant to their needs. Having excessive, duplicated, or outdated information does not help them.
 
 *   Engaging & visual content. Users value pictures and graphics that can give them a better sense of the school environment and culture.
 
