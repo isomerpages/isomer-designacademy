@@ -43,8 +43,7 @@ sections:
       url: /content/
   - infopic:
       title: Usability Checklist
-      description: Run through our usability list to ensure that your Isomer site is
-        ready to go.
+      description: Run through our checklist to ensure that your Isomer site is ready to go.
       button: LEARN MORE
       url: /homepage
       image: /images/hero-banner.png
