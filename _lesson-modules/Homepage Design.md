@@ -58,7 +58,7 @@ In this example, SGTogether uses vibrant, cheerful images of citizens working to
 
 *   Create copies that are both functional and engaging to get your audience's attention. Make full use of your title texts to highlight key details or value propositions you want to convey.
 *   Think about using creative copies that can further incorporate your brand identity.
-*   For example, using the OGP approach instead of our approach, or using the OGP values instead of our values. \[image\]
+*   For example, using the OGP approach instead of our approach, or using the OGP values instead of our values.
 
 **Fully utilise the homepage**
 
