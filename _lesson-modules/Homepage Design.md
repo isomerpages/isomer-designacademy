@@ -3,6 +3,10 @@ title: Homepage Design
 permalink: /lesson-modules/homepage-design/
 description: ""
 ---
+### About the module
+
+In this module, we will be going through various aspects to create an effective homepage.
+
 ### Importance of a homepage ### 
 A homepage is the first thing that visitors would see. It affects their initial impression of your brand or website and plays an important role in engaging your audiences.
 
