@@ -5,14 +5,12 @@ description: ""
 ---
 ### About the module
 
-In this module, we will be going through various aspects to create an effective homepage.
+In this module, we will be going through various aspects to create an effective homepage.In this module, we will discuss the importance of a website homepage, and the best practices available to craft an effective one.
 
 ### Importance of a homepage ### 
-A homepage is the first thing that visitors would see. It affects their initial impression of your brand or website and plays an important role in engaging your audiences.
+A homepage is the first thing that visitors would see. It affects their initial impression of your brand or website and plays an important role in engaging your audiences. Think about the homepage as a storefront, where key items are highlights for audiences to see.
 
-More importantly, it is also used to navigate to other parts of your website. Thus, it is important that a homepage should not only be engaging and relevant but also clear and easy to navigate.
-
-Your homepage is akin to your storefront, be sure to highlight key items that you would want your audience to immediately know.
+More importantly, it is also used to navigate to other parts of the website. Thus, it is important that a homepage should not only be engaging but also clear and easy to navigate.
 
 ### Designing the homepage ### 
 Isomer features a variety of homepage templates for users to customise how they portray their content. Effective use of images, copywriting and structure can make your website stand out. Here are some good examples of how customisable Isomer sites can be.
