@@ -43,8 +43,12 @@ The example below shows how Singapore Prison Service uses concise copy to introd
 *   Do note that hero banner images have a default dark overlay when uploaded to maintain proper color contrast that adheres to accessibility standards.
 *   Keep your hero banner images engaging, relevant, and clear. Use images or colors that strongly represent your brand or values. Make sure both the image and copy are closely aligned with what you want to convey.
 
-In this example, SGTogether uses vibrant, cheerful images of citizens working together to convey a sense of partnership and support.
+In this example, SGTogether uses vibrant, cheerful images of citizens working together to portray an idea of partnership and support.
 ![](https://i.imgur.com/qkw7tA2.png)
+
+Ministry of Health's COVID-19 website uses simplistic, colorful graphics relevant to it's objectives of helping users with their queries.
+![](https://i.imgur.com/v71mJQs.png)
+
 
 
 **Place effective images**
