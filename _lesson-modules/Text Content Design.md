@@ -34,7 +34,7 @@ In general, text content on your website should be:
 *   The list is a useful element for breaking up chunks of text, shortening texts, and suggesting relationships between different items.
 *   Take a look at both examples below. Having a list makes the content on the right more digestible.
 
-![Page Content Design.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/067798d5-cc50-4e91-82b3-c3ad4561f364/Page_Content_Design.png)
+!\[\](https://i.imgur.com/YrFvliE.png)
 
 *   Keep your lists neat by ensuring that items within them are similar in length.
 
@@ -45,7 +45,7 @@ In general, text content on your website should be:
 *   Use paragraphs to break up large chunks of text. This makes it easy for users to read and scan through information.
 *   Keep your paragraphs short. Unlike printed content, paragraphs on the web should be much shorter.
 *   \[picture\]
-*   [](https://www.w3.org/WAI/tips/designing/)[https://www.w3.org/WAI/tips/designing/](https://www.w3.org/WAI/tips/designing/) (pic example)
+*   [](https://www.w3.org/WAI/tips/designing/)[https://www.w3.org/WAI/tips/designing/]
 
 **Write descriptive links**
 
