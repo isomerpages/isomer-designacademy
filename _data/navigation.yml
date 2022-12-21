@@ -1,8 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About Us
+  - title: About
     url: /permalink
-  - title: Careers
-    collection: careers
-  - title: Our Products
+  - title: Learning Modules
     collection: lesson-modules
+  - title: Usability Checklist
+    url: /permalink
+  - title: Other Resources
+    resource_room: true
