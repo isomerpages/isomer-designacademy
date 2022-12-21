@@ -1,7 +1,0 @@
-collections:
-  careers:
-    output: true
-    order:
-      - Operations.md
-      - Design.md
-      - Engineering.md
