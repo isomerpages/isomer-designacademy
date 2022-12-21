@@ -1,0 +1,6 @@
+collections:
+  our-research:
+    output: true
+    order:
+      - Best practices & examples.md
+      - Research & Insights.md
