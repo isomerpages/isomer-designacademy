@@ -3,10 +3,8 @@ title: Website Planning
 permalink: /lesson-modules/website-planning/
 description: ""
 ---
-
 #### About the module ####
-In this module, we will go through some considerations and steps you can take while planning and setting up your website. Having proper content planning is important as it helps you to structure your website (e.g. what should be on the homepage).
-
+This module goes through the considerations you should take during website planning and setup. Proper content planning is key in helping you to better structure your website.
 
 #### Planning content for your website ####
 
