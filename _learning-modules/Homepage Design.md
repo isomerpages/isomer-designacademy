@@ -33,8 +33,7 @@ Each organisation has a different approach to creating its website. Some use col
 - Ensure that your homepage provides an overview of your website and allows users to navigate to where they need. Categories in the navigation bar and instructions on the homepage should be clear, concise, and intuitive for users.
 
 **Keep it updated and fresh**
-- Frequently update your homepage with new announcements, events, and pictures. Engage users with updates on the latest happenings in your organisation (e.g. events). 
-This lets users know that the website is constantly being worked on and information there is up-to-date, giving them more reasons to check back in more often.
+- Frequently update your homepage with new announcements, events, and pictures. Engage users with updates on the latest happenings in your organisation (e.g. events). This informs users that the website is constantly updated, encouraging them to check in often.
 
 #### Best homepage practices #### 
 
