@@ -38,7 +38,7 @@ This lets users know that the website is constantly being worked on and informat
 
 #### Best homepage practices #### 
 
-**Fully utilise the homepage**
+**1. Fully utilise the homepage**
 
 Your homepage is more than just the hero banner! Be sure to make use of different homepage sections to convey information creatively.
 
@@ -46,4 +46,17 @@ Make use of features like hero banner highlights, resources section, or even add
 
 Take a look at how websites like [greenplan.gov.sg](https://www.greenplan.gov.sg/) and [vaccine.gov.sg](https://www.vaccine.gov.sg/) make full use of different sections to create and customise informative homepages.
 
+![Example of greenplan.gov and vaccine.gov websites](/images/Homepage%20Design%208.png)
 
+However, keep in mind that placing too many sections (more than 10) could make your homepage too long.
+
+
+**2. Focus on the key information**
+
+Refrain from over-cluttering your homepage with information. Having excessive or irrelevant information impedes users from finding what they need.
+
+Instead, highlight what you want to say with a short, concise copy in each homepage section. Save longer details for a separate page instead.
+
+The example below shows how Singapore Prison Service uses a short copy to introduce the Yellow Ribbon project on its homepage, with a separate link for users to find out more if they are interested.
+
+![Example of Singapore Prison Service website](/images/Homepage%20Design%202.png)
