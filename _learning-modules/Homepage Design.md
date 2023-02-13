@@ -7,69 +7,43 @@ description: ""
 
 This module touches on the importance of a website homepage, examples of good website homepages, and best homepage practices.
 
-### Importance of a homepage ### 
-A homepage is the first thing that visitors would see. It affects their initial impression of your brand or website and plays an important role in engaging your audiences. Think about the homepage as a storefront, where key items are highlights for audiences to see.
+#### Importance of a homepage #### 
+The homepage of your website is likely where most of your users would land first. Their experience on the homepage plays a pivotal role in capturing their attention and engaging them to continue browsing the site. 
 
-More importantly, it is also used to navigate to other parts of the website. Thus, it is important that a homepage should not only be engaging but also clear and easy to navigate.
+If you think about your website as a store, your homepage is the storefront window where key items are highlighted for customers to see. Items displayed on the storefront capture the customer’s attention and determine whether they continue to take a look inside or walk away. 
 
-### Designing the homepage ### 
-Isomer features a variety of homepage templates for users to customise how they portray their content. Effective use of images, copywriting and structure can make your website stand out. Here are some good examples of how customisable Isomer sites can be.
+Similarly, the homepage is used to introduce useful content (e.g. announcements, events) and lead users to other pages across the site. The homepage should be frequently updated with new features and updates, like how a storefront constantly shows new deals or seasonal items. Wouldn’t it be boring if people always come back to the same content?
 
-![](https://i.imgur.com/FuC2Mbj.png)
+#### How to make your homepage engaging? #### 
+From hero banners to infopic sections, Isomer features a variety of homepage templates for users to customise their content. Effective use of images and copywriting also play a key part in making your website stand out. 
 
-Key principles for the homepage:
+Take a look at how these Isomer sites make full use of their homepages:
+![Examples of engaging Isomer homepages](/images/Homepage%20Design%201.png)
 
-*   Keep it engaging and visual
-*   Content should be easily readable
-*   Helps users navigate across the site
+A common theme surrounding these examples is how they make use of concise copy and relevant images to give users a glimpse into their organisations. Visually captivating hero banners are used to engage audiences right from the start. 
 
-### Best homepage practices ###
+Each organisation has a different approach to creating its website. Some use colorful, vivid graphics to convey their identity, while others use immersive, realistic photos to showcase what they do. Even with Isomer’s standard templates, each website managed to craft a unique look that strongly represents its organisation.
 
+#### Key principles to create an effective homepage #### 
 
-**Focus on the key information**
+**Use images and videos for effective storytelling**
+- Incorporate visual content such as photos and videos to engage audiences and convey your message. Pair it with relevant copywriting to make your content more interesting and relatable, while showcasing your organisation’s identity.
 
-*   Refrain from over-cluttering the homepage with information. Having excessive or irrelevant information impedes users from finding what they need.
+**Help users familiarise themselves**
+- Ensure that your homepage provides an overview of your website and allows users to navigate to where they need. Categories in the navigation bar and instructions on the homepage should be clear, concise, and intuitive for users.
 
-*   Instead, highlight the subject with a short copy and save the longer details for a separate page instead.
+**Keep it updated and fresh**
+- Frequently update your homepage with new announcements, events, and pictures. Engage users with updates on the latest happenings in your organisation (e.g. events). 
+This lets users know that the website is constantly being worked on and information there is up-to-date, giving them more reasons to check back in more often.
 
-The example below shows how Singapore Prison Service uses concise copy to introduce projects on its homepage, with a seperate link for users to find out more.
-![](https://i.imgur.com/L0utKdr.png)
-
-**Create an effective hero banner**
-
-*   Another key aspect of every homepage is the hero banner, as it is the first thing that most people would see. An impactful hero banner image has the ability to inform viewers about your products, services, and mission at a glance.
-*   Avoid low-quality images that would look blurry in bigger dimensions.
-*   \[example\]
-*   Do note that hero banner images have a default dark overlay when uploaded to maintain proper color contrast that adheres to accessibility standards.
-*   Keep your hero banner images engaging, relevant, and clear. Use images or colors that strongly represent your brand or values. Make sure both the image and copy are closely aligned with what you want to convey.
-
-In this example, SGTogether uses vibrant, cheerful images of citizens working together to portray an idea of partnership and support.
-![](https://i.imgur.com/qkw7tA2.png)
-
-Ministry of Health's COVID-19 website uses simplistic, colorful graphics relevant to it's objectives of helping users with their queries.
-![](https://i.imgur.com/v71mJQs.png)
-
-
-
-**Place effective images**
-
-*   Adding images helps improves site readability as it breaks up and provides complimenting visuals to your texts.
-*   Avoid low-quality images that may look pixelated in larger dimensions.
-*   The style of images should remain consistent across the page. For example, all graphics used should follow a consistent pattern or color palette.
-*   Use relevant images to aid and provide better context for your content.
-
-**Use effective copywriting**
-
-*   Create copies that are both functional and engaging to get your audience's attention. Make full use of your title texts to highlight key details or value propositions you want to convey.
-*   Think about using creative copies that can further incorporate your brand identity.
-*   For example, using the OGP approach instead of our approach, or using the OGP values instead of our values.
+#### Best homepage practices #### 
 
 **Fully utilise the homepage**
 
-*   Your homepage is more than just the hero banner! Make full use of different homepage templates to creatively convey information.
+Your homepage is more than just the hero banner! Be sure to make use of different homepage sections to convey information creatively.
 
-\[examples of effective isomer homepages\]
+Make use of features like hero banner highlights, resources section, or even adding videos in the infopic section to provide more variety to your content. 
 
-**Descriptive names for buttons and links**
-*   Provide descriptive names for your buttons and links. For example, use words like “Learn More” or “Our Approach”, rather than something generic like “Click Here”.
-*   This helps to provide users with context to better know what to expect when clicking in. It can also be used as a Call-to-Action prompt to garner better engagement.
+Take a look at how websites like [greenplan.gov.sg](https://www.greenplan.gov.sg/) and [vaccine.gov.sg](https://www.vaccine.gov.sg/) make full use of different sections to create and customise informative homepages.
+
+
