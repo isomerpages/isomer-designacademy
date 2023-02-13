@@ -29,6 +29,7 @@ As shown in this example, well-structured department signs and product categorie
 
 This is similar to a user’s thought process when navigating through a website, where they would first scan through the headers on the navigation bar for a broad overview of the website’s content, then hover over the dropdown menus to look at the items within.
 
+
 [pic] Example of how a navigation bar and its dropdown menu work
 
 #### How does website navigation work? ####
