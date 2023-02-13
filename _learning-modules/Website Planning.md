@@ -43,6 +43,7 @@ The website also adopts an interesting approach in how it talks to users from th
 
 ![](https://i.imgur.com/bNwt9wT.png)
 
+
 Another good example is the [Singapore Institute of Retail Studies’](https://www.sirs.edu.sg/) website, which follows the same framework:
 
 *   **Main Audience** - People that might be interested in their programmes or in joining the industry.
