@@ -22,8 +22,7 @@ Imagine that navigating through a website is like shopping at a supermarket. In 
 *   The customer goes to the supermarket to look for canned soup. 
 *   Once inside, he starts scanning for signs that lead to the different departments in the store, such as “Food”, “Cleaning”, or “Appliances”. 
 *   The customer heads over to the “Food” department accordingly.
-
-*   The “Food” department contains separate aisles that further segment into “Fresh food”, “Condiments”, and “Instant food”. The customer heads towards the “Instant food” aisle as it would likely contain the canned soup he is looking for.
+*   The “Food” department further segments into separate aisles like “Fresh food”, “Condiments”, and “Instant food”. The customer heads toward the “Instant food” aisle containing the canned soup he is looking for.
 
 As shown in this example, well-structured department signs and product categories are essential to ensure that customers can quickly scan through the supermarket to get to the area they need.
 
