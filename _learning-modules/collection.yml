@@ -1,5 +1,5 @@
 collections:
-  lesson-modules:
+  learning-modules:
     output: true
     order:
       - Research Insights.md
