@@ -41,8 +41,7 @@ Take a look at [covid.gov.sg](http://covid.gov.sg) as an example. We can easily 
 
 The website also adopts an interesting approach in how it talks to users from their own perspective, with statements such as “I am unwell” or “I am a close contact”. This makes the website copy much more direct and relatable, making it easier for users to understand.
 
-![](https://i.imgur.com/bNwt9wT.png)
-
+![Example of well-planned website]()
 
 Another good example is the [Singapore Institute of Retail Studies’](https://www.sirs.edu.sg/) website, which follows the same framework:
 
