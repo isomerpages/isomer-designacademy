@@ -3,41 +3,71 @@ title: Website Navigation
 permalink: /lesson-modules/website-navigation/
 description: ""
 ---
-#### Structuring your website ### 
+#### About the module ####
+This module touches on how to better structure website content and navigation, such as grouping pages into categories or setting proper navigation headers.
 
+#### What is website navigation? ####
 
-Once your website content has been planned, it is necessary to consider how properly structure them as it affects how easily users can navigate through the site and their overall user experience.
+Website navigation refers to the way a user clicks across a website to find what they need. For example, navigating through different pages on the website to find the “Contact Us” page. 
 
-Key principles to take note of:
+The main factors that affect a user’s website navigation experience include:
 
-*   **Simplicity** - Navigation on your website should be intuitive and easy to understand.
-*   **Clearly defined** - Avoid making users guess what a navigation header means or what pages may be in it.
-*   **Consistency** - Labelling or categorising of information should be the similar across different folders or pages.
+*   How content on the navigation bar is structured
+    
+*   How different pages are categorised and grouped
+    
 
-Pages and folders should follow a clear hierarchy with lower-level pages grouped into broader categories.
+Imagine that navigating through a website is like shopping at a supermarket. In this example, the supermarket represents the website, and the customer represents the user.
 
-\[Example of basic information architecture in a website\]
+*   The customer goes to the supermarket to look for canned soup. 
+*   Once inside, he starts scanning for signs that lead to the different departments in the store, such as “Food”, “Cleaning”, or “Appliances”. 
+*   The customer heads over to the “Food” department accordingly.
 
-### Utilising the navigation bar ### 
-The navigation bar is a key element of every website as it is the element that users rely on most to get around the site. Thus, it is important to structure its headers well.
+*   The “Food” department contains separate aisles that further segment into “Fresh food”, “Condiments”, and “Instant food”. The customer heads towards the “Instant food” aisle as it would likely contain the canned soup he is looking for.
 
-**Place high level headers in the navigation bar**   
-Keeping high level headers accessible gives users a broad overview of where to go. Lower level headers can be placed in the dropdown menu instead. This allows pages to be better structured in a logical and intuitive manner.
+As shown in this example, well-structured department signs and product categories are essential to ensure that customers can quickly scan through the supermarket to get to the area they need.
 
-**Good examples of how navigation bars are structured:**
+This is similar to a user’s thought process when navigating through a website, where they would first scan through the headers on the navigation bar for a broad overview of the website’s content, then hover over the dropdown menus to look at the items within.
 
-\[pics\]
+[pic] Example of how a navigation bar and its dropdown menu work
 
+#### How does website navigation work? ####
 
-**Avoid having too many headers**   
-Excessive headers makes it more difficult for users to know where to click on. Ensure that top level headers placed are clear and meaningful!
+Websites typically consist of many different pages grouped into broader categories for users to easily scan through.
 
-**Keep headers clear and distinct**   
-Ensure that headers do not overlap so users do not get confused on where to click. For example, avoid having headers like events and activities together as they are quite similar.
+For example, pages featuring “Children’s Day Celebration”, “Christmas Party”, and “New Year’s Countdown” can all be grouped together under an “Events” category.
 
-_Example of overlapping headers (pic)_
-*   e.g. user confused between events and activities
+Here is a visual example of a website’s layout across different categories and pages.
 
-**Additional tips**   
-*   A “home” category is unnecessary. Users understand that clicking on the logo goes to the homepage.
-*   Keep top navigation headers for content categories. Content like user personas (e.g. parents, students, teachers) can be placed in highlights.
+[pic]
+
+These categories will be displayed as headers on the navigation bar for users to easily access, as shown below.
+
+[pic]
+
+#### Why is good website navigation important? ####
+
+Well-designed website navigation is a big factor in good user experience as it allows users to find what they need independently and easily. 
+
+A good website experience not only leaves a favorable impression of your overall brand but also encourages users to stay on it longer to browse through other content. This would lead to an increase in key metrics such as user retention rate and visit duration. 
+
+Conversely, a website with bad navigation can leave users frustrated as they are unable to find information easily, which could cause them to “bounce”, exiting the website without taking any action.
+
+#### Key principles for good navigation ####
+
+**Clearly defined categories**
+- Avoid making users guess what the items on your navigation bar mean or what pages may be in it. Headers on the navigation bar on your website should be intuitive and easy to understand.
+
+  
+**Proper content grouping**
+- With how website navigation works, it is clear that the way content is grouped plays a big role in the overall experience. A mislabelled category or misplaced page can confuse users or hinder them from finding what they need. 
+
+- A [card sorting exercise](https://www.nngroup.com/articles/card-sorting-definition/) can also help teams to fully align with what their users think. This involves getting their users to sort different items under matching categories, as shown in the example below. This allows teams to observe and better understand how their users think.
+
+[pic]
+
+**User-tested approach**
+
+- A good way to ensure that the navigation experience on your website works is simply to try out your website with users. 
+- Come up with a simple task list for them to go through (e.g. find contact details) and observe as they go through the website. Note down any issues that they face throughout the process and discuss their experience at the end.
+- Another way is to regularly check in with your users through surveys or feedback forms.**
