@@ -3,9 +3,7 @@ title: Website Navigation
 permalink: /lesson-modules/website-navigation/
 description: ""
 ---
-
-
-### Structuring your website ### 
+#### Structuring your website ### 
 
 
 Once your website content has been planned, it is necessary to consider how properly structure them as it affects how easily users can navigate through the site and their overall user experience.
