@@ -3,10 +3,10 @@ title: Text Content Design
 permalink: /learning-modules/page-content-design/
 description: ""
 ---
-#### About the module
+#### **About the module** ####
 This module discusses the importance of proper text formatting and practices, such as using text hierarchies, paragraphs, and lists.
 
-#### Importance of text content design
+#### **Importance of text content design** ####
 Besides the homepage, other pages on Isomer mainly displays text content through the markdown editor. The markdown editor allows users to format texts through elements like lists, headings, and bolding. 
 
 Although these pages mainly handle only text content, how these texts are structured can heavily impact content readability and user experience. Contrary to what most people think, most users only do a quick scan across the page to read texts that are relevant to them. 
@@ -19,7 +19,7 @@ This example above shows a heatmap of how users typically scan a page, taken fro
 
 ![Exmaple of an eye-tracking heatmap on a website](/images/Text%20Content%20Design%202.png)
 
-#### Key principles for text content design
+#### **Key principles for text content design** ####
 
 **1. Well-organised**
 
@@ -33,7 +33,7 @@ This example above shows a heatmap of how users typically scan a page, taken fro
     
 - Written content should be easily digestible and understandable, even without prior context. Avoid making your content too technical or including jargon.
 
-#### Best text content design practices
+#### **Best text content design practices** ####
 
 **1. Write meaningful headings**
 
