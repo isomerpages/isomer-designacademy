@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       title: Isomer Academy
-      subtitle: Creating engaging Isomer sites through good web design practices.
+      subtitle: Creating engaging Isomer sites through good web design practices
       background: /images/hero-banner.png
       url: /contact-us/
   - infobar:
       title: Do more with your website
       description: Isomer academy aims to help organisations better plan, design, and
         create effective websites through educational content.
-      button: learn more
+      button: About us
       url: /about/
   - infopic:
       title: Learning Modules
@@ -39,4 +39,3 @@ sections:
       image: /images/hero-banner.png
       alt: Image alt text
 ---
-
