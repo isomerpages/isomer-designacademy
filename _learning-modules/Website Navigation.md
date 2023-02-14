@@ -3,11 +3,10 @@ title: Website Navigation
 permalink: /learning-modules/website-navigation/
 description: ""
 ---
-
-#### About the module ####
+#### **About the module** ####
 This module touches on how to better structure website content and navigation, such as grouping pages into categories or setting proper navigation headers.
 
-#### What is website navigation? ####
+#### **What is website navigation?** ####
 
 Website navigation refers to the way a user clicks across a website to find what they need. For example, navigating through different pages on the website to find the “Contact Us” page. 
 
@@ -32,7 +31,7 @@ This is similar to a user’s thought process when navigating through a website,
 Here is an example of how a navigation bar and its dropdown menu work:
 ![](/images/Website%20navigation.png)
 
-#### How does website navigation work? ####
+#### **How does website navigation work?** ####
 
 Websites typically consist of many different pages grouped into broader categories for users to easily scan through.
 
@@ -46,7 +45,7 @@ These categories will be displayed as headers on the navigation bar for users to
 
 ![](/images/Website%20Navigation%203.png)
 
-#### Why is good website navigation important? ####
+#### **Why is good website navigation important?** ####
 
 Well-designed website navigation is a big factor in good user experience as it allows users to find what they need independently and easily. 
 
@@ -54,7 +53,7 @@ A good website experience not only leaves a favorable impression of your overall
 
 Conversely, a website with bad navigation can leave users frustrated as they are unable to find information easily, which could cause them to “bounce”, exiting the website without taking any action.
 
-#### Key principles for good navigation ####
+#### **Key principles for good navigation** ####
 
 **Clearly defined categories**
 - Avoid making users guess what the items on your navigation bar mean or what pages may be in it. Headers on the navigation bar on your website should be intuitive and easy to understand.
@@ -74,7 +73,7 @@ Conversely, a website with bad navigation can leave users frustrated as they are
 - Another way is to regularly check in with your users through surveys or feedback forms.
 
 
-#### Designing the navigation bar ####
+#### **Designing the navigation bar** ####
 
 A well-structured navigation bar is essential for every website as it is the first element users would go to for information and what they rely on for website navigation.
 
@@ -93,7 +92,7 @@ As explained above, content on a website can be grouped into different categorie
 **Skip the “home” header**
 - A “home” header is unnecessary in the navigation bar. Users understand that clicking on the logo would lead them back to the homepage. Make use of the space for other headers instead.
 
-#### Examples of navigation ####
+#### **Examples of navigation** ####
 
 Aside from the navigation bar, you can also make use of hero banner highlights and hero banner dropdowns to provide alternative ways of navigation for users.
 
