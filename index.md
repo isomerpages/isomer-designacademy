@@ -22,7 +22,7 @@ sections:
       description: Learn how to effectively design your website on Isomer
       button: Learn more
       alt: Image alt text
-      url: /content/
+      url: /learning-modules/website-planning/
       image: /images/pexels-ron-lach-10646609.jpg
   - infopic:
       title: Insights & Research
