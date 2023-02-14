@@ -3,11 +3,10 @@ title: Research Insights
 permalink: /research-insights/
 description: ""
 ---
-
-#### About this section
+#### **About this section** ####
 This section contains specific research insights that are more relevant toward schools that are using Isomer.
 
-#### Our Research for Schools
+#### **Our Research for Schools** ####
 
 Over the past few months, the Isomer team has worked closely with both parents & school staff to learn more about their experiences with different school websites.
 
@@ -30,7 +29,7 @@ Hosted workshops for schools to co-create new Isomer ideas and templates with th
 *   Noticed certain misconceptions and bad website practices by participants.
 
 
-####  Key Research Insight
+####  **Key Research Insight** ####
 
 **Role of the school website for users:**
 
@@ -46,7 +45,7 @@ Hosted workshops for schools to co-create new Isomer ideas and templates with th
 *   School’s value proposition information (CCAs, school values/mission, offerings)
     
 
-#### Challenges faced on school websites ####
+#### **Challenges faced on school websites** ####
 
 **Information is not shown upfront**
 
@@ -82,7 +81,7 @@ Hosted workshops for schools to co-create new Isomer ideas and templates with th
 *   In most cases, pop-ups have not been coded properly, meaning they re-appear every time the user enters the site. This forces them to repeatedly close it every time they come back to the home page.
 ![Example of a pop-up on a school website](/images/Research%20Insight%203.png)
 
-#### What users value in school websites ####
+#### **What users value in school websites** ####
 
 **Ease of use and convenience**
 - Users want available information upfront so they can quickly scan for what they need on the homepage
