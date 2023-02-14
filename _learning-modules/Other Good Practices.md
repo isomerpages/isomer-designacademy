@@ -3,22 +3,25 @@ title: Other Good Practices
 permalink: /learning-modules/other-good-practices/
 description: ""
 ---
+#### About the module
 
+This module goes through other important practices to take note of when managing your website.
 
-A.R.T Familiarisation Webinar
+ 
+#### Useful Practices
 
-Thank you for participating in our A.R.T Familiarisation Webinar.
+**Perform regular website housekeeping**
 
-1. Watch the [recorded webinar](www.google.com)
-2. Fill in our [webinar feedback survey](www.google.com)
-3. Download [questions and responses](www.google.com) from the webinar and survey.
+Update your website frequently with new information. Ensure that outdated content (e.g. past events or announcements) is updated or removed. Leaving irrelevant and outdated information may give users the perception that the website is unreliable.
 
+Identify and repair broken links. Make use of free online tools available online to help you track broken links on your website.
 
+**Account for users across different devices**
 
-A.R.T Familiarisation Webinar
+Ensure that your website works well on other devices as well. For example, mobile devices have a much smaller screen size causing certain elements of the website to be displayed differently.
 
-Thank you for participating in our A.R.T Familiarisation Webinar.
+Use the inspect element function to see how your website looks on other devices.
 
-1. To view the recorded webinar, click [here](www.google.com)
-2. To complete the webinar feedback survey, click [here](www.google.com)
-3. To download the questions and responses from the webinar, click [here](www.google.com)
+*   Go to your website
+*   Right-click and select “Inspect”
+*   Change device previews on the top left dropdown
