@@ -3,7 +3,6 @@ title: Text Content Design
 permalink: /learning-modules/page-content-design/
 description: ""
 ---
-
 #### About the module
 This module discusses the importance of proper text formatting and practices, such as using text hierarchies, paragraphs, and lists.
 
