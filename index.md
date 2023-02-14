@@ -37,6 +37,6 @@ sections:
       description: Launch a website with us on Isomer.
       button: LEARN MORE
       url: https://www.isomer.gov.sg/
-      image: /images/hero-banner.png
+      image: /images/pexels-ron-lach-10646609.jpg
       alt: Image alt text
 ---
