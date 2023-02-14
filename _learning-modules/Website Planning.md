@@ -3,8 +3,8 @@ title: Website Planning
 permalink: /learning-modules/website-planning/
 description: ""
 ---
-
-#### About the module ####
+### About the module ###
+--------------------
 This module looks into the factors you should consider when setting up your website. Proper content planning is key in helping you to better structure your website.
 
 #### Planning content for your website ####
