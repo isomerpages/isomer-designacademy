@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About
-    url: /permalink
+    url: /about/
   - title: Learning Modules
     collection: learning-modules
   - title: Usability Checklist
