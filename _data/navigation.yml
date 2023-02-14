@@ -8,3 +8,5 @@ links:
     url: /research-insights/
   - title: Isomer
     url: https://www.isomer.gov.sg/
+  - title: Menu Title
+    resource_room: true
