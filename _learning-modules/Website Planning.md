@@ -3,10 +3,10 @@ title: Website Planning
 permalink: /learning-modules/website-planning/
 description: ""
 ---
-#### About the module ####
+#### **About the module** ####
 This module looks into the factors you should consider when setting up your website. Proper content planning is key in helping you to better structure your website.
 
-#### Planning content for your website ####
+#### **Planning content for your website** ####
 
 To create an effective website, it is important to first plan the type of content you need to have. This can be narrowed down to three main factors:
 
@@ -31,7 +31,7 @@ To create an effective website, it is important to first plan the type of conten
 *   Once you have identified your website’s objective, think about how you can translate that into content. A key consideration is balancing the amount of content on your website and the necessity of the content. Having too much information can make it difficult for users to find what they need.
 
 
-#### Examples of well-planned websites
+#### **Examples of well-planned websites** ####
 
 Take a look at [covid.gov.sg](http://covid.gov.sg) as an example. We can easily break down their website using the same framework:
 
