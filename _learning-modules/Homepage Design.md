@@ -3,19 +3,18 @@ title: Homepage Design
 permalink: /learning-modules/homepage-design/
 description: ""
 ---
-
-#### About the module
+#### **About the module** ####
 
 This module touches on the importance of a website homepage, examples of good website homepages, and best homepage practices.
 
-#### Importance of a homepage #### 
+#### **Importance of a homepage** #### 
 The homepage of your website is likely where most of your users would land first. Their experience on the homepage plays a pivotal role in capturing their attention and engaging them to continue browsing the site. 
 
 If you think about your website as a store, your homepage is the storefront window where key items are highlighted for customers to see. Items displayed on the storefront capture the customer’s attention and determine whether they continue to take a look inside or walk away. 
 
 Similarly, the homepage is used to introduce useful content (e.g. announcements, events) and lead users to other pages across the site. The homepage should be frequently updated with new features and updates, like how a storefront constantly shows new deals or seasonal items. Wouldn’t it be boring if people always come back to the same content?
 
-#### How to make your homepage engaging? #### 
+#### **How to make your homepage engaging?** #### 
 From hero banners to infopic sections, Isomer features a variety of homepage templates for users to customise their content. Effective use of images and copywriting also play a key part in making your website stand out. 
 
 Take a look at how these Isomer sites make full use of their homepages:
@@ -25,7 +24,7 @@ A common theme surrounding these examples is how they make use of concise copy a
 
 Each organisation has a different approach to creating its website. Some use colorful, vivid graphics to convey their identity, while others use immersive, realistic photos to showcase what they do. Even with Isomer’s standard templates, each website managed to craft a unique look that strongly represents its organisation.
 
-#### Key principles to create an effective homepage #### 
+#### **Key principles to create an effective homepage** #### 
 
 **Use images and videos for effective storytelling**
 - Incorporate visual content such as photos and videos to engage audiences and convey your message. Pair it with relevant copywriting to make your content more interesting and relatable, while showcasing your organisation’s identity.
@@ -36,7 +35,7 @@ Each organisation has a different approach to creating its website. Some use col
 **Keep it updated and fresh**
 - Frequently update your homepage with new announcements, events, and pictures. Engage users with updates on the latest happenings in your organisation (e.g. events). This informs users that the website is constantly updated, encouraging them to check in often.
 
-#### Best homepage practices #### 
+#### **Best homepage practices** #### 
 
 **1. Fully utilise the homepage**
 
