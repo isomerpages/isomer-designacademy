@@ -3,7 +3,6 @@ title: Other Useful Practices
 permalink: /learning-modules/other-useful-practices/
 description: ""
 ---
-
 #### About the module
 
 This module goes through other important practices to take note of when managing your website.
@@ -26,3 +25,5 @@ Use the inspect element function to see how your website looks on other devices.
 *   Go to your website
 *   Right-click and select “Inspect”
 *   Change device previews on the top left dropdown
+
+![Example of using the inspect element for device preview](/images/Other%20Useful%20Practices.png)
