@@ -3,12 +3,12 @@ title: Other Useful Practices
 permalink: /learning-modules/other-useful-practices/
 description: ""
 ---
-#### About the module
+#### **About the module** ####
 
 This module goes through other important practices to take note of when managing your website.
 
  
-#### Useful Practices
+#### **Useful Practices** ####
 
 **Perform regular website housekeeping**
 
