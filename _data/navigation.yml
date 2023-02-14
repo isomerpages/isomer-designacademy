@@ -6,7 +6,5 @@ links:
     collection: learning-modules
   - title: Research insights
     url: /research-insights/
-  - title: Isomer
+  - title: build with Isomer
     url: https://www.isomer.gov.sg/
-  - title: Menu Title
-    resource_room: true
