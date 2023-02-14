@@ -18,19 +18,19 @@ sections:
       button: learn more
       url: /about/
   - infopic:
+      title: Learning Modules
+      description: Learn how to effectively design your website on Isomer
+      button: Learn more
+      alt: Image alt text
+      url: /content/
+      image: /images/pexels-ron-lach-10646609.jpg
+  - infopic:
       title: Insights & Research
       description: Read about user's experiences and challenges on current school websites.
       button: Learn more
       url: /
       alt: Image alt text
-  - infopic:
-      title: Learning Modules
-      subtitle: Infopic Subtitle
-      description: Learn how to effectively organise content and design webpages for a
-        better website experience.
-      button: Learn more
-      alt: Image alt text
-      url: /content/
+      image: /images/pexels-ron-lach-10646609.jpg
   - infopic:
       title: Usability Checklist
       description: Run through our checklist to ensure that your Isomer site is ready to go.
