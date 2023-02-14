@@ -14,7 +14,7 @@ sections:
   - infobar:
       title: Do more with your website
       description: Isomer academy aims to help organisations better plan, design, and
-        create effective websites through educational content.
+        create effective websites.
       button: About us
       url: /about/
   - infopic:
@@ -25,17 +25,18 @@ sections:
       url: /learning-modules/website-planning/
       image: /images/pexels-ron-lach-10646609.jpg
   - infopic:
-      title: School Research Insights
-      description: Learn about the challenges on current school websites.
-      button: Learn more
+      title: Research Insights
+      description: Read about the experiences and challenges users face on current
+        school websites.
+      button: Read more
       url: /school-research-insights/
       alt: Image alt text
       image: /images/pexels-ron-lach-10646609.jpg
   - infopic:
-      title: Usability Checklist
-      description: Run through our checklist to ensure that your Isomer site is ready to go.
+      title: Build with Isomer
+      description: Launch a website with us on Isomer.
       button: LEARN MORE
-      url: /homepage
+      url: https://www.isomer.gov.sg/
       image: /images/hero-banner.png
       alt: Image alt text
 ---
