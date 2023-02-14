@@ -2,7 +2,6 @@ collections:
   learning-modules:
     output: true
     order:
-      - Research Insights.md
       - Website Planning.md
       - Website Navigation.md
       - Homepage Design.md
