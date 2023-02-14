@@ -19,16 +19,16 @@ sections:
       url: /about/
   - infopic:
       title: Learning Modules
-      description: Learn how to effectively design your website on Isomer
+      description: Learn how to effectively design your website on Isomer.
       button: Learn more
       alt: Image alt text
       url: /learning-modules/website-planning/
       image: /images/pexels-ron-lach-10646609.jpg
   - infopic:
-      title: Insights & Research
-      description: Read about user's experiences and challenges on current school websites.
+      title: School Research Insights
+      description: Learn about the challenges on current school websites.
       button: Learn more
-      url: /
+      url: /school-research-insights/
       alt: Image alt text
       image: /images/pexels-ron-lach-10646609.jpg
   - infopic:
