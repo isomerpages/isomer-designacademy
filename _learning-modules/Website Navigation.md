@@ -28,8 +28,9 @@ As shown in this example, well-structured department signs and product categorie
 
 This is similar to a user’s thought process when navigating through a website, where they would first scan through the headers on the navigation bar for a broad overview of the website’s content, then hover over the dropdown menus to look at the items within.
 
-Here is an example of how a navigation bar and its dropdown menu work:
-![](/images/Website%20navigation.png)
+![An example of how a navigation bar and its dropdown menu work](/images/Website%20Navigation.png)
+*Example of how a navigation bar and its dropdown menu work*
+
 
 #### **How does website navigation work?** ####
 
@@ -39,7 +40,7 @@ For example, pages featuring “Children’s Day Celebration”, “Christmas Pa
 
 Here is a visual example of a website’s layout across different categories and pages.
 
-![](/images/Website%20navigation%202.png)
+![Diagram breaking down website navigation](/images/Website%20Navigation%202.png)
 
 These categories will be displayed as headers on the navigation bar for users to easily access, as shown below.
 
