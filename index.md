@@ -26,7 +26,7 @@ sections:
       description: Isomer academy aims to help organisations better plan, design, and
         create effective websites through educational content.
       button: learn more
-      url: /faq/
+      url: /about/
   - infopic:
       title: Insights & Research
       description: Read about user's experiences and challenges on current school websites.
