@@ -12,7 +12,7 @@ Thus, we wanted to make use of our knowledge in this area, coupled with our expe
 
   
 
-#### Empowering our users ####
+#### **Empowering our users** ####
 
 With Isomer academy, we hope to empower our users (public officers) to go beyond just building basic websites, but websites that provide a great experience to their own users (members of the public).
 
@@ -20,7 +20,7 @@ From homepage design to accessibility practices, a series of learning modules ar
 
   
 
-#### Go further with better websites ####
+#### **Go further with better websites** ####
 
 Building well-structured websites with a focus on good user experience allows you to:
 
