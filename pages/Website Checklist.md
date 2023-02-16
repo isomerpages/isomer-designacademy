@@ -16,6 +16,9 @@ This checklist covers a set of key pointers your website should follow to ensure
 | ✅ Buttons should have descriptive labels (not just “click here”)
 | ✅ Proper contrast between selected website color and texts
 | ✅ Ensure that all key information can be accessed through the navigation bar
+| 
+
+
 
 | Important |
 | -------- |
@@ -28,3 +31,4 @@ This checklist covers a set of key pointers your website should follow to ensure
 | ✅ Text headings should be descriptive
 | ✅ Text content should be easily understandable and free of typos
 | ✅ Use of proper paragraphing to break up content
+|
