@@ -20,12 +20,11 @@ This checklist covers a set of key pointers your website should follow to ensure
 | Important |
 | -------- |
 | ✅ Images should be in high-resolution    
-| ✅ Images should be engaging and relevant to your content
+| ✅ Images should be engaging and relevant to the content
 | ✅ Gifs and videos should work properly
 | ✅ Navigation bar headers should be clear and distinct
 | ✅ Keep navigation bar headers to a minimum (Not more than 5)
-| ✅ Proper use of different text headings to structure content (H1, H2, etc.) 
+| ✅ Proper use of different text headings for content structure  (H1, H2, etc.) 
 | ✅ Text headings should be descriptive
 | ✅ Text content should be easily understandable and free of typos
 | ✅ Use of proper paragraphing to break up content
-
