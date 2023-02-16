@@ -2,8 +2,8 @@ title: Isomer Academy
 url: https://www.isomeracademy.com
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#ef8900"
+  secondary-color: "#38425c"
   media-colors:
     - title: media-color-one
       color: "#49759a"
