@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Isomer Academy
-description: An Isomer site of the Singapore Government
+description: An education guide on crafting effective websites on Isomer.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -49,3 +49,4 @@ sections:
       image: /images/Build.png
       alt: Image alt text
 ---
+
