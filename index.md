@@ -23,7 +23,6 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /learning-modules/website-planning/
-      image: /images/BYOS test.png
   - infopic:
       title: Research Insights
       description: Read about the experiences and challenges users face on current
