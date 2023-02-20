@@ -6,17 +6,17 @@ description: ""
 #### **What is Isomer Academy?** ####
 Isomer Academy is an educational platform consisting of learning modules to help users create better websites through Isomer. 
 
-Through our experience in working with stakeholders such as government organisations, schools, and parents, we gathered deeper insights into the challenges they face in both creating and using Isomer websites. 
+Through the team’s experiences working with stakeholders such as government organisations, schools, and parents, we gathered deeper insights into the challenges they face in both creating and using Isomer websites. 
 
-Thus, we wanted to make use of our knowledge in this area, coupled with our experience in product design to provide our users with good practices that they can easily apply when building their own websites.
+Thus, we hope to create a platform that can make use of our knowledge in this area, as well as our expertise in product design, to provide Isomer users with useful website practices.
 
   
 
 #### **Empowering our users** ####
 
-With Isomer academy, we hope to empower our users (public officers) to go beyond just building basic websites, but websites that provide a great experience to their own users (members of the public).
+Most people want to build “good” websites but often find it difficult to pinpoint where and what they need to focus on. With Isomer Academy, we hope to help our users better understand the elements behind a “good” website and empower them to create websites that can effectively serve their needs.
 
-From homepage design to accessibility practices, a series of learning modules are available to help users make full use of the Isomer template. Modules are made to be easy to follow and understand, ensuring that less-experienced users can also apply what they learn.
+From homepage design to accessibility practices, a series of learning modules are available to help users make full use of the Isomer template. Modules are made to be easy to follow and understand, ensuring that any Isomer user can apply what they have learned.
 
   
 
