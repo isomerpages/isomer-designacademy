@@ -9,7 +9,6 @@ sections:
   - hero:
       title: Isomer Academy
       subtitle: Creating engaging Isomer sites through good web design practices
-      background: /images/test homepage banner.png
       url: /contact-us/
   - infobar:
       title: Do more with your website
@@ -23,7 +22,6 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /learning-modules/website-planning/
-      image: /images/test3.png
   - infopic:
       title: Research Insights
       description: Read about the experiences and challenges users face on current
