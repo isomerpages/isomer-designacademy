@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Isomer Academy
       subtitle: Creating engaging Isomer sites through good web design practices
-      background: /images/hero-banner.png
+      background: /images/Homepage Banner Test.png
       url: /contact-us/
   - infobar:
       title: Do more with your website
