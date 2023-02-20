@@ -23,6 +23,7 @@ sections:
       button: Learn more
       alt: Image alt text
       url: /learning-modules/website-planning/
+      image: /images/test2.png
   - infopic:
       title: Research Insights
       description: Read about the experiences and challenges users face on current
@@ -30,7 +31,7 @@ sections:
       button: Read more
       url: /school-research-insights/
       alt: Image alt text
-      image: /images/pexels-ron-lach-10646609.jpg
+      image: /images/test1.png
   - infopic:
       title: Build with Isomer
       description: Launch a website with us on Isomer.
