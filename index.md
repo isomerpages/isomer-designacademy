@@ -10,7 +10,7 @@ sections:
       title: Isomer Academy
       subtitle: Creating engaging Isomer sites through good web design practices
       url: /contact-us/
-      background: /images/Banner 01.png
+      background: /images/Banner.png
   - infobar:
       title: Do more with your website
       description: Isomer academy aims to help organisations better plan, design, and
