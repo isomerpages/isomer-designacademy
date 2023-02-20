@@ -31,7 +31,14 @@ sections:
       button: Read more
       url: /school-research-insights/
       alt: Image alt text
-      image: /images/test3.png
+      image: /images/Research Insights.png
+  - infopic:
+      title: Website Checklist
+      description: Website Checklist
+      button: USE IT
+      url: /website-checklist/
+      image: /images/Checklist.png
+      alt: Image alt text
   - infopic:
       title: Build with Isomer
       description: Launch a website with us on Isomer.
