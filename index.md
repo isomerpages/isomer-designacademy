@@ -30,23 +30,22 @@ sections:
       description: Discover the challenges and experiences that users encounter on
         current school websites through our research.
       button: Read more
-      url: /school-research-insights/
+      url: /research-insights/
       alt: Image alt text
       image: /images/Research Insights.png
   - infopic:
       title: Website Checklist
       description: Ensure your website is fully prepared for launch by referring to
         our comprehensive checklist.
-      button: Refer now
+      button: Refer to checklist
       url: /website-checklist/
       image: /images/Checklist.png
       alt: Image alt text
   - infopic:
       title: Build with Isomer
       description: Ready to start building? Launch a website with us on Isomer.
-      button: LEARN MORE
+      button: try isomer
       url: https://www.isomer.gov.sg/
       image: /images/Build.png
       alt: Image alt text
 ---
-
