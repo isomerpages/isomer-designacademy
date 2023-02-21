@@ -19,8 +19,6 @@ As government organisations designing websites for citizens, we have to ensure t
 
 #### **Guidelines for accessibility** ####
 
----
-
 **Consider all users**
 
 When designing your website, it is important to consider all types of users, including:
