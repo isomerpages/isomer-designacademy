@@ -39,10 +39,14 @@ Take a look at the [Singapore Institute of Retail Studies’](https://www.sirs.e
 *   **Objective** - To inform their audiences about their services and provide related industry updates
 *   **Focus** - Different programmes categories are featured at the top, with other relevant industry updates and activities across the website.
 
+![Example of a well-planned website](/images/Website%20Planning%202.png)
+
 Another good example is the [Singapore Week of Innovation & Technology](https://www.switchsg.org/) (SWITCH)’s website.
 
 *   **Main audience** - People who might be interested in their innovation programme or related events.
     
 *   **Objective** - To inform their audiences about what SWITCH does, and the various resources that it offers.
     
-*   **Focus** - A call-to-action button is featured prominently at the top to get audiences to learn more about their programme . Information on other useful resources, such as  partner events or innovation lab can be found in the highlights section below it.
+*   **Focus** - A call-to-action button is featured prominently at the top to get audiences to learn more about their programme. Information on other useful resources, such as  partner events or innovation lab can be found in the highlights section below it.
+
+![Example of a well-planned website](/images/Website%20Planning%201.png)
