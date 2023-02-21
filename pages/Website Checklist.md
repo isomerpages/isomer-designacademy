@@ -30,5 +30,6 @@ This checklist covers a set of pointers your website should cover to ensure that
 | ✅ Proper use of different text headings for content structure  (H1, H2, etc.) 
 | ✅ Text headings should be descriptive
 | ✅ Text content should be easily understandable and free of typos
-| ✅ Use of proper paragraphing to break up content
+| ✅ Use proper text formatting to break up long paragraphs
+| ✅ Website content should be updated
 |
