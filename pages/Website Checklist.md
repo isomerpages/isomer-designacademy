@@ -5,7 +5,7 @@ description: ""
 ---
 #### **About the checklist**
 
-This checklist covers a set of key pointers your website should follow to ensure that your is accessible and understandable by your users. For more detailed information on these pointers, do check out our learning modules.
+This checklist covers a set of key pointers your website should follow to ensure that it is accessible and understandable by your users. For more detailed information on these pointers, do check out our learning modules.
 
 
 | Top Priority |
