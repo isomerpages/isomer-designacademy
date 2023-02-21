@@ -5,22 +5,22 @@ description: ""
 ---
 #### **About the checklist**
 
-This checklist covers a set of key pointers your website should follow to ensure that it is accessible and understandable by your users. For more detailed information on these pointers, do check out our learning modules.
+This checklist covers a set of pointers your website should cover to ensure that it is accessible and understandable by your users. Check out our learning modules for more detailed information.
 
-
-| Top Priority |
+| Basic Functionality Checklist |
 | -------- |
 | ✅ Images should include descriptive alt-texts
-| ✅ Links should be working properly
+| ✅ Gifs and videos should load smoothly
+| ✅ Links should not be broken and linked correctly
 | ✅ Hyperlinks should be descriptive
 | ✅ Buttons should have descriptive labels (not just “click here”)
 | ✅ Proper contrast between selected website color and texts
-| ✅ Ensure that all key information can be accessed through the navigation bar
+| ✅ All key information should be accessible through the navigation bar
 | 
 
 
 
-| Important |
+| Content Checklist |
 | -------- |
 | ✅ Images should be in high-resolution    
 | ✅ Images should be engaging and relevant to the content
