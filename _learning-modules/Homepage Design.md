@@ -17,8 +17,10 @@ Similarly, the homepage is used to introduce useful content (e.g. announcements,
 #### **How to make your homepage engaging?** #### 
 From hero banners to infopic sections, Isomer features a variety of homepage templates for users to customise their content. Effective use of images and copywriting also play a key part in making your website stand out. 
 
-Take a look at how these Isomer sites make full use of their homepages:
+Take a look at how the following Isomer sites make full use of their homepages:
 ![Examples of engaging Isomer homepages](/images/Homepage%20Design%201.png)
+([Smart Nation Singapore](https://www.smartnation.gov.sg/), [Singapore Prison Service](https://www.sps.gov.sg/), [GovTech](https://www.tech.gov.sg/), [Singapore Food Agency](https://www.sfa.gov.sg/))
+
 
 A common theme surrounding these examples is how they make use of concise copy and relevant images to give users a glimpse into their organisations. Visually captivating hero banners are used to engage audiences right from the start. 
 
@@ -43,7 +45,7 @@ Your homepage is more than just the hero banner! Be sure to make use of differen
 
 Make use of features like hero banner highlights, resources section, or even adding videos in the infopic section to provide more variety to your content. 
 
-Take a look at how websites like [greenplan.gov.sg](https://www.greenplan.gov.sg/) and [vaccine.gov.sg](https://www.vaccine.gov.sg/) make full use of different sections to create and customise informative homepages.
+Take a look at how websites like [greenplan.gov.sg](https://www.greenplan.gov.sg/) and [switchsg.org](https://www.switchsg.org/) make full use of different sections to create and customise informative homepages.
 
 ![Example of greenplan.gov and vaccine.gov websites](/images/Homepage%20Design%208.png)
 
@@ -56,7 +58,7 @@ Refrain from over-cluttering your homepage with information. Having excessive or
 
 Instead, highlight what you want to say with a short, concise copy in each homepage section. Save longer details for a separate page instead.
 
-The example below shows how Singapore Prison Service uses a short copy to introduce the Yellow Ribbon project on its homepage, with a separate link for users to find out more if they are interested.
+The example below shows how [Singapore Prison Service](https://www.sps.gov.sg/) uses a short copy to introduce the Yellow Ribbon project on its homepage, with a separate link for users to find out more if they are interested.
 
 ![Example of Singapore Prison Service website](/images/Homepage%20Design%202.png)
 
@@ -67,15 +69,15 @@ The hero banner is a key aspect of every homepage, as it is the first thing that
 
 Keep your hero banner images engaging, relevant, and clear. Use images or colors that strongly represent your brand or values. Make sure both the image and copy are closely aligned with what you want to convey.
 
-For example, SGTogether uses cheerful images of citizens working together, coupled with matching texts encouraging Singaporeans to support one another through the pandemic.
+For example, [SGTogether](https://www.singaporetogether.gov.sg/) uses cheerful images of citizens working together, coupled with matching texts encouraging Singaporeans to support one another through the pandemic.
 
 ![Example of Singapore Together's website](/images/Homepage%20Design%203.png)
 
-The Defence Science & Technology (DS&T) sector uses a blend of both realistic images and graphics to create a visually engaging hero banner showcasing what they do in the organisation. It also has a call-to-action copy directed at viewers to join them.
+The [Defence Science & Technology (DS&T)](https://www.dtcareers.gov.sg/) website uses a blend of both realistic images and graphics to create a visually engaging hero banner showcasing what they do in the organisation. It also has a call-to-action copy directed at viewers to join them.
 
 ![Example of Defence Science & Technology website](/images/Homepage%20Design%204.png)
 
-In contrast to previous examples, The Singapore Institute of Retail Studies uses bright, vibrant graphics instead to show what they do.
+In contrast to previous examples, [The Singapore Institute of Retail Studies](https://www.sirs.edu.sg/) uses bright, vibrant graphics instead to show what they do.
 
 ![Example of The Singapore Institute of Retail Studies website](/images/Homepage%20Design%205.png)
 
