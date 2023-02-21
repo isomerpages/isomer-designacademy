@@ -19,6 +19,8 @@ As government organisations designing websites for citizens, we have to ensure t
 
 #### **Guidelines for accessibility** ####
 
+---
+
 **Consider all users**
 
 When designing your website, it is important to consider all types of users, including:
@@ -32,8 +34,7 @@ When designing your website, it is important to consider all types of users, inc
 
 Check out [gov.uk’s article](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) on specific accessibility considerations for different types of users.
     
-
-  
+ ---
 
 **Use plain language**
 
@@ -43,6 +44,8 @@ Make use of online tools such as the [Hemingway app](https://hemingwayapp.com/) 
     
 Conduct a quick test with users on whether they can easily understand your content and revise your copy before publishing.
 
+---
+
 **Keep texts easy to read**
 
 Break large chunks of text into shorter paragraphs and concise sentences.
@@ -51,6 +54,7 @@ Include images, videos, or illustrations to provide visual context and explanati
     
 Make use of headings, list formatting, bolding, and hyperlinks.
     
+---
 
 **Add alt-text for images**
 
@@ -59,8 +63,9 @@ Alt-text is a written copy that shows when an image does not load. It also helps
 Ensure that all non-text items have an alt-text so that visually-impaired users can understand them through a screen reader.
     
 For example, the alt-text for the following image below could be “Team from Open Government Products interacting with participants during a design workshop”
+![Team from Open Government Products interacting with participants during a design workshop](/images/Accessibility%20Considerations%201.png)
 
-![Team from Open Government Products interacting with participants during a design workshop](/images/Accessibility%20Considerations%201.jpg)
+---
 
 **Ensure proper color contrast**
 
@@ -72,20 +77,28 @@ Compare both examples below, the header text with high contrast is much easier t
 
 Hero banner images have a default dark overlay when uploaded to maintain proper color contrast that adheres to accessibility standards.
 
+---
+
 **Avoid flashing content**
 
 Take note that uploading media with multiple flashes or rapid colors may cause seizures and be uncomfortable to view.
+
+---
 
 **Use headings to structure content**
 
 As covered in the text content design, using headings to outline and group different sections of a page helps improve readability.
     
 More importantly, headings act as a navigation method for screen reader users. For example, when the screen reader detects an H2 heading, it allows the users to navigate between other H2 headings of that section, similar to how users would scan a page.
-    
+
+---
+
 **Text alternatives for videos and podcasts**
 
 Provide captions to audio-visual content (e.g. videos) and text transcripts to audio content (e.g. podcasts).
-   
+
+---
+
 **Descriptive names for buttons and links**
 
 Descriptive names for buttons and links are also important from an accessibility standpoint. Screen readers often navigate from link to link and skip surrounding texts, which causes their users to miss out on contextual information. 
