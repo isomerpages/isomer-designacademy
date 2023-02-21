@@ -33,20 +33,16 @@ To create an effective website, it is important to first plan the type of conten
 
 #### **Examples of well-planned websites** ####
 
-Take a look at [covid.gov.sg](http://covid.gov.sg) as an example. We can easily break down their website using the same framework:
-
-*   **Main Audience** - People are suspected to have or have COVID-19
-*   **Objective** - To inform the target audience on the steps they need to take according to their symptoms.
-*   **Focus** - Their website features 4 main pages with specific information telling users what to do based on their symptoms or situation.
-
-The website also adopts an interesting approach in how it talks to users from their own perspective, with statements such as “I am unwell” or “I am a close contact”. This makes the website copy much more direct and relatable, making it easier for users to understand.
-
-![Example of a well-planned website](/images/Website%20Planning%201.png)
-
-Another good example is the [Singapore Institute of Retail Studies’](https://www.sirs.edu.sg/) website, which follows the same framework:
+Take a look at the [Singapore Institute of Retail Studies’](https://www.sirs.edu.sg/) website as an example. We can easily break down their website using the same framework:
 
 *   **Main Audience** - People that might be interested in their programmes or in joining the industry.
-*   **Objective** - To inform audiences about their services and provide related industry updates
+*   **Objective** - To inform their audiences about their services and provide related industry updates
 *   **Focus** - Different programmes categories are featured at the top, with other relevant industry updates and activities across the website.
 
-![Example of a well-planned website](/images/Website%20Planning%202.png)
+Another good example is the [Singapore Week of Innovation & Technology](https://www.switchsg.org/) (SWITCH)’s website.
+
+*   **Main audience** - People who might be interested in their innovation programme or related events.
+    
+*   **Objective** - To inform their audiences about what SWITCH does, and the various resources that it offers.
+    
+*   **Focus** - A call-to-action button is featured prominently at the top to get audiences to learn more about their programme . Information on other useful resources, such as  partner events or innovation lab can be found in the highlights section below it.
