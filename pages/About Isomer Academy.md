@@ -3,8 +3,8 @@ title: About Isomer Academy
 permalink: /about/
 description: ""
 ---
-#### **What is Isomer Academy?** ####
-Isomer Academy is an educational platform consisting of learning modules to help users create better websites through Isomer. 
+#### **What is Isomer Design Academy?** ####
+Isomer Design Academy is an educational platform consisting of learning modules to help users create better websites through Isomer. 
 
 Through the team’s experiences working with stakeholders such as government organisations, schools, and parents, we gathered deeper insights into the challenges they face in both creating and using Isomer websites. 
 
@@ -14,7 +14,7 @@ Thus, we hope to create a platform that can make use of our knowledge in this ar
 
 #### **Empowering our users** ####
 
-Most people want to build “good” websites but often find it difficult to pinpoint where and what they need to focus on. With Isomer Academy, we hope to help our users better understand the elements behind a “good” website and empower them to create websites that can effectively serve their needs.
+Most people want to build “good” websites but often find it difficult to pinpoint where and what they need to focus on. With Isomer Design Academy, we hope to help our users better understand the elements behind a “good” website and empower them to create websites that can effectively serve their needs.
 
 From homepage design to accessibility practices, a series of learning modules are available to help users make full use of the Isomer template. Modules are made to be easy to follow and understand, ensuring that any Isomer user can apply what they have learned.
 
