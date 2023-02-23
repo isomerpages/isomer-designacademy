@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Academy
+title: Isomer Design Academy
 description: An education guide on crafting effective websites on Isomer.
 image: /images/isomer-logo.svg
 permalink: /
@@ -49,3 +49,4 @@ sections:
       image: /images/Build.png
       alt: Image alt text
 ---
+
