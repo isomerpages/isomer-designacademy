@@ -7,13 +7,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Isomer Academy
+      title: Isomer Design Academy
       subtitle: Craft impactful Isomer sites with effective web design strategies
       url: /contact-us/
       background: /images/Banner.png
   - infobar:
       title: Do more with your website
-      description: Isomer Academy strives to help organisations craft effective
+      description: Isomer Design Academy strives to help organisations craft effective
         websites that suit their needs.
       button: About us
       url: /about/
