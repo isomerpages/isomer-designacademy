@@ -1,0 +1,10 @@
+collections:
+  learning-modules:
+    output: true
+    order:
+      - Website Planning.md
+      - Website Navigation.md
+      - Homepage Design.md
+      - Text Content Design.md
+      - Accessibility Considerations.md
+      - Other Useful Practices.md

@@ -1,32 +1,52 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Isomer Design Academy
+description: An education guide on crafting effective websites on Isomer.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Isomer Design Academy
+      subtitle: Craft impactful Isomer sites with effective web design strategies
+      url: /contact-us/
+      background: /images/Banner.png
+  - infobar:
+      title: Do more with your website
+      description: Isomer Design Academy strives to help organisations craft effective
+        websites that suit their needs.
+      button: About us
+      url: /about/
+  - infopic:
+      title: Learning Modules
+      description: Learn how to create a highly effective website through a series of
+        short modules covering different topics.
+      button: Learn more
+      alt: Image alt text
+      url: /learning-modules/website-planning/
+      image: /images/Learning Modules.png
+  - infopic:
+      title: Research Insights
+      description: Discover the challenges and experiences that users encounter on
+        current school websites through our research.
+      button: Read more
+      url: /research-insights/
+      alt: Image alt text
+      image: /images/Research Insights.png
+  - infopic:
+      title: Website Checklist
+      description: Ensure your website is fully prepared for launch by referring to
+        our comprehensive checklist.
+      button: Refer to checklist
+      url: /website-checklist/
+      image: /images/Checklist.png
+      alt: Image alt text
+  - infopic:
+      title: Build with Isomer
+      description: Ready to start building? Launch a website with us on Isomer.
+      button: try isomer
+      url: https://www.isomer.gov.sg/
+      image: /images/Build.png
+      alt: Image alt text
 ---
 
