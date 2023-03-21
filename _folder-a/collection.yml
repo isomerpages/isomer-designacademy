@@ -1,0 +1,4 @@
+collections:
+  folder-a:
+    output: true
+    order: []
