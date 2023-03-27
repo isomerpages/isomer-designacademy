@@ -77,9 +77,9 @@ The [Defence Science & Technology (DS&T)](https://www.dtcareers.gov.sg/) website
 
 ![Example of Defence Science & Technology website](/images/Homepage%20Design%204.png)
 
-In contrast to previous examples, [The Singapore Institute of Retail Studies](https://www.sirs.edu.sg/) uses bright, vibrant graphics instead to show what they do.
+In contrast to previous examples, [Temasek Polytechnic](https://tpof.tp.edu.sg/) uses fun, vibrant graphics instead to show what they do.
 
-![Example of The Singapore Institute of Retail Studies website](/images/Homepage%20Design%205.png)
+![Example of Temasek Polytechnic website](/images/Homepage%20Design%205.png)
 
 **4. Place effective images**
 
