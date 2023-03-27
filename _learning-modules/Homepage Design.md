@@ -19,7 +19,7 @@ From hero banners to infopic sections, Isomer features a variety of homepage tem
 
 Take a look at how the following Isomer sites make full use of their homepages:
 ![Examples of engaging Isomer homepages](/images/Homepage%20Design%201.png)
-([Smart Nation Singapore](https://www.smartnation.gov.sg/), [Singapore Prison Service](https://www.sps.gov.sg/), [GovTech](https://www.tech.gov.sg/), [Singapore Food Agency](https://www.sfa.gov.sg/))
+([People's Association](https://www.pa.gov.sg/), [NLB's LearnX](https://learning.nlb.gov.sg/), [CRIS Singapore](https://www.cris.sg/), [Singapore Food Agency](https://www.sfa.gov.sg/))
 
 
 A common theme surrounding these examples is how they make use of concise copy and relevant images to give users a glimpse into their organisations. Visually captivating hero banners are used to engage audiences right from the start. 
