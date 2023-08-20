@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dsyletvf930s6.amplifyapp.com
 prod: https://master.dsyletvf930s6.amplifyapp.com
-resources_name: resource-room-1
+resources_name: resources
 shareicon: /images/isomer-logo.svg
 is_government: true
 facebook-pixel: ""
