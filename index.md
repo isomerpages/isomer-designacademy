@@ -45,4 +45,9 @@ sections:
       url: https://www.isomer.gov.sg/
       image: /images/Build.png
       alt: Image alt text
+  - infobar:
+      title: Ready to start building?
+      description: Launch a website with IsomerCMS
+      button: Learn more
+      url: https://www.isomer.gov.sg/
 ---
