@@ -47,7 +47,8 @@ sections:
       alt: Image alt text
   - infobar:
       title: Ready to start building?
-      description: Launch a website with IsomerCMS
-      button: Learn more
-      url: https://www.isomer.gov.sg/
+      description: Join 500+ other sites – We’re already supporting more than 70
+        agencies with their website needs.
+      button: onboard to Isomer
+      url: https://www.isomer.gov.sg/onboard
 ---
