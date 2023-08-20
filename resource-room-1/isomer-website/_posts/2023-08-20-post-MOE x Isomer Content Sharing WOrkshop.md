@@ -6,3 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
+*This workshop was run twice on 7 Sep 2022 and 14 Sep 2022 with a total of 35 school representatives.*
+
+---
+
+The Isomer team was invited
+
+-
+
+
+View the sharing slides below:
