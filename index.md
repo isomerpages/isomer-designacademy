@@ -38,13 +38,6 @@ sections:
       url: /website-checklist/
       image: /images/Checklist.png
       alt: Image alt text
-  - infopic:
-      title: Build with Isomer
-      description: Ready to start building? Launch a website with us on Isomer.
-      button: try isomer
-      url: https://www.isomer.gov.sg/
-      image: /images/Build.png
-      alt: Image alt text
   - infobar:
       title: Ready to start building?
       description: Join 500+ other sites – We’re already supporting more than 70
