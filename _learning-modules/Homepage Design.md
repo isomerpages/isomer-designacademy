@@ -79,9 +79,9 @@ The [People's Association (PA)](https://www.pa.gov.sg/) website uses a vibrant a
 
 ![A screenshot of the pa.gov.sg website's hero banner](/images/example%20of%20pa%20website.png)
 
-In contrast to previous examples, [Temasek Polytechnic](https://tpof.tp.edu.sg/) uses fun, vibrant graphics instead to show what they do.
+[Singapore Week of Innovation & Technology (SWITCH)](https://www.switchsg.org/) uses a stylistic patterned graphic for their hero image, which gives a sense of sophistication. They use their Call-To-Action button to prompt site visitors to register for their event.
 
-
+![A screenshot of the Switch.org website's hero banner](/images/example%20of%20switchsg%20website.png)
 
 **4. Place effective images**
 
