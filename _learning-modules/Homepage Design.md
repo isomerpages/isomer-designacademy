@@ -75,7 +75,7 @@ For example, [SGTogether](https://www.singaporetogether.gov.sg/) uses cheerful i
 
 ![Example of Singapore Together's website](/images/Homepage%20Design%203.png)
 
-The [People's Association (PA)](https://www.pa.gov.sg/) website uses a vibrant and colorful photo of an event to emotionally connect with site visitors. This is combined with a punchy tagline to communicate the value proposition of their services, creating an impactful hero banner. 
+The [People's Association (PA)](https://www.pa.gov.sg/) website uses a vibrant and colorful event photo full of smiling faces to emotionally connect with site visitors. This is combined with a punchy tagline to communicate the value proposition of their services, creating an impactful hero banner. 
 
 ![A screenshot of the pa.gov.sg website's hero banner](/images/example%20of%20pa%20website.png)
 
