@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-*This sharing was done in collaboration with the MOE was run twice on 7 Sep 2022 and 14 Sep 2022 with a total of 35 school representatives.*
+*This sharing was done in collaboration with the MOE for a content design workshop held on 22 Aug 2023*
 
 ---
 
