@@ -15,14 +15,6 @@ sections:
       title: Latest slides & sharings
       button: View all past sharings
   - infopic:
-      title: Learning Modules
-      description: Learn how to create a highly effective website through a series of
-        short modules covering different topics.
-      button: Learn more
-      alt: Image alt text
-      url: /learning-modules/website-planning/
-      image: /images/Learning Modules.png
-  - infopic:
       title: Research Insights
       description: Discover the challenges and experiences that users encounter on
         current school websites through our research.
@@ -30,6 +22,14 @@ sections:
       url: /research-insights/
       alt: Image alt text
       image: /images/Research Insights.png
+  - infopic:
+      title: Learning Modules
+      description: Learn how to create a highly effective website through a series of
+        short modules covering different topics.
+      button: Learn more
+      alt: Image alt text
+      url: /learning-modules/website-planning/
+      image: /images/Learning Modules.png
   - infopic:
       title: Website Checklist
       description: Ensure your website is fully prepared for launch by referring to
@@ -43,5 +43,5 @@ sections:
       description: Join 500+ other sites – We’re already supporting more than 70
         agencies with their website needs.
       button: onboard to Isomer
-      url: https://www.isomer.gov.sg/onboard
+      url: https://www.isomer.gov.sg/
 ---
