@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-*This workshop was run twice on 7 Sep 2022 and 14 Sep 2022 with a total of 35 school representatives.*
+*This sharing was done in collaboration with the MOE was run twice on 7 Sep 2022 and 14 Sep 2022 with a total of 35 school representatives.*
 
 ---
 
@@ -16,3 +16,4 @@ The Isomer team was invited
 
 
 View the sharing slides below:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQlT1HM9vKem7TyHtYtUQooV70CimLcXRCs2_GtO_idGqZSjmAUjKzuxSY-mJb_gftp-dZ-gDf8yr-Z/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
