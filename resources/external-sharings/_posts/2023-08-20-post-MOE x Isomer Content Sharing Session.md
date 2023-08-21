@@ -6,11 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-*This sharing was done in collaboration with the MOE for a content design workshop held on 22 Aug 2023*
+*This sharing was done in collaboration with the MOE for a content design sharing held on 22 Aug 2023*
 
 ---
 
-The Isomer team was invited by the MOE Customer Experience Design team to share at a workshop on best practices for good content design. We shared more on how to best use the Isomer Homepage template, covering the following points:
+The Isomer team was invited by the MOE Customer Experience Design team to share at a session on best practices for good content design. We shared more on how to best use the Isomer Homepage template, covering the following points:
 - Hero section best practices, including
 	- Hero image best practices
 	- How to use highlights and dropdowns
@@ -19,6 +19,7 @@ The Isomer team was invited by the MOE Customer Experience Design team to share 
 	- For announcements
 	- To advertise an event
 
-
+<br>
+<br>
 View the sharing slides below:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQlT1HM9vKem7TyHtYtUQooV70CimLcXRCs2_GtO_idGqZSjmAUjKzuxSY-mJb_gftp-dZ-gDf8yr-Z/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
