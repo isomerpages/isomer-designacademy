@@ -65,9 +65,11 @@ The example below shows how [Singapore Prison Service](https://www.sps.gov.sg/) 
 
 **3. Create an effective hero banner**
 
-The hero banner is a key aspect of every homepage, as it is the first thing that viewers see. An effective hero banner captures a viewer’s attention through the use of captivating visuals and texts. It can be used to inform viewers about your services, culture, and mission, setting the tone for how they feel about you.
+The hero banner is a key aspect of every homepage, as it is the first thing that viewers see. An effective hero banner captures a viewer’s attention and communicates the main message or value proposition of the website. Visuals help to reinforce the message and create an emotional connection with the visitor.
 
-Keep your hero banner images engaging, relevant, and clear. Use images or colors that strongly represent your brand or values. Make sure both the image and copy are closely aligned with what you want to convey.
+Overall, the hero banner is an important element of a website's landing page, as it sets the tone for the rest of the page and can have a significant impact on the visitor's first impression of the website.
+
+Keep your hero banner engaging, relevant, and clear. Use images or colors that strongly represent your brand or values. Make sure both the image and copy are closely aligned with what you want to convey.
 
 For example, [SGTogether](https://www.singaporetogether.gov.sg/) uses cheerful images of citizens working together, coupled with matching texts encouraging Singaporeans to support one another through the pandemic.
 
