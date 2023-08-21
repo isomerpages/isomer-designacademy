@@ -19,7 +19,5 @@ The Isomer team was invited by the MOE Customer Experience Design team to share 
 	- For announcements
 	- To advertise an event
 
-<br>
-<br>
-View the sharing slides below:
+##### View the sharing slides below:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQlT1HM9vKem7TyHtYtUQooV70CimLcXRCs2_GtO_idGqZSjmAUjKzuxSY-mJb_gftp-dZ-gDf8yr-Z/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
