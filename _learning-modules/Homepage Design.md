@@ -75,9 +75,9 @@ For example, [SGTogether](https://www.singaporetogether.gov.sg/) uses cheerful i
 
 ![Example of Singapore Together's website](/images/Homepage%20Design%203.png)
 
-The [Defence Science & Technology (DS&T)](https://www.dtcareers.gov.sg/) website uses a blend of both realistic images and graphics to create a visually engaging hero banner showcasing what they do in the organisation. It also has a call-to-action copy directed at viewers to join them.
+The [People's Association (PA)](https://www.pa.gov.sg/) website uses a vibrant and colorful photo of an event to emotionally connect with site visitors. This is combined with a punchy tagline to communicate the value proposition of their services, creating an impactful hero banner. 
 
-![Example of Defence Science & Technology website](/images/Homepage%20Design%204.png)
+![A screenshot of the pa.gov.sg website's hero banner](/images/example%20of%20pa%20website.png)
 
 In contrast to previous examples, [Temasek Polytechnic](https://tpof.tp.edu.sg/) uses fun, vibrant graphics instead to show what they do.
 
