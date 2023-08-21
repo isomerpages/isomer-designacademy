@@ -81,7 +81,7 @@ The [People's Association (PA)](https://www.pa.gov.sg/) website uses a vibrant a
 
 In contrast to previous examples, [Temasek Polytechnic](https://tpof.tp.edu.sg/) uses fun, vibrant graphics instead to show what they do.
 
-![Example of Temasek Polytechnic website](/images/Homepage%20Design%205.png)
+
 
 **4. Place effective images**
 
