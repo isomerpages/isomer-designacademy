@@ -10,9 +10,14 @@ image: ""
 
 ---
 
-The Isomer team was invited
-
--
+The Isomer team was invited by the MOE Customer Experience Design team to share at a workshop on best practices for good content design. We shared more on how to best use the Isomer Homepage template, covering the following points:
+- Hero section best practices, including
+	- Hero image best practices
+	- How to use highlights and dropdowns
+	- How to use the notification banner
+- Ways to use the other sections
+	- For announcements
+	- To advertise an event
 
 
 View the sharing slides below:
