@@ -26,8 +26,8 @@ sections:
       subtitle: Research Insights
   - infopic:
       title: Do a quick check against best practices
-      description: Ensure your website models best practices with some quick points to
-        check beforehand.
+      description: "Quickly review some pointers your website should cover to ensure
+        that it is accessible and understandable by your users. "
       button: Refer to checklist
       url: /website-checklist/
       image: /images/Checklist.png
