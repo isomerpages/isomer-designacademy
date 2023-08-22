@@ -13,7 +13,7 @@ sections:
       background: /images/Banner.png
       button: start learning how
   - resources:
-      button: View all past sharings
+      button: All past sharings
       title: Latest slides & sharings
   - infopic:
       title: '"I think the website is..."'
