@@ -11,7 +11,7 @@ sections:
       subtitle: Craft impactful Isomer sites with effective web design strategies
       url: /learning-modules/website-planning/
       background: /images/Banner.png
-      button: Learn how to
+      button: Start learning today!
   - resources:
       button: All past sharings
       title: Latest slides & sharings
