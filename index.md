@@ -11,7 +11,7 @@ sections:
       subtitle: Craft impactful Isomer sites with effective web design strategies
       url: /learning-modules/website-planning/
       background: /images/Banner.png
-      button: start learning how
+      button: Learn how to
   - resources:
       button: All past sharings
       title: Latest slides & sharings
@@ -26,8 +26,8 @@ sections:
       subtitle: Research Insights
   - infopic:
       title: Do a quick check against best practices
-      description: "Quickly review some pointers your website should cover to ensure
-        that it is accessible and understandable by your users. "
+      description: Quickly review some pointers your website should cover to ensure
+        that it is accessible and understandable by your users.
       button: Refer to checklist
       url: /website-checklist/
       image: /images/Checklist.png
