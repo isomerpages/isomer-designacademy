@@ -68,6 +68,7 @@ Hosted workshops for schools to co-create new Isomer ideas and templates with th
 *   For example, things such as past events or outdated announcements are no longer useful to users and should be removed.
     
 *   Such information clutters the homepage, making it difficult for users to find new information. 
+
 **The homepage is not very helpful for users**
 
 *   Some homepages fail to include enough useful information upfront for users to browse through. 
