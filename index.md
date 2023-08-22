@@ -16,13 +16,14 @@ sections:
       button: View all past sharings
       subtitle: Latest slides & sharings
   - infopic:
-      title: Research Insights
+      title: What are site visitors thinking?
       description: Discover the challenges and experiences that users encounter on
         current school websites through our research.
       button: Read more
       url: /research-insights/
       alt: Image alt text
       image: /images/Research Insights.png
+      subtitle: Research Insights
   - infopic:
       title: Website Checklist
       description: Ensure your website is fully prepared for launch by referring to
