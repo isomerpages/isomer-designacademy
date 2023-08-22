@@ -13,8 +13,8 @@ sections:
       background: /images/Banner.png
       button: start learning how
   - resources:
-      title: Latest slides & sharings
       button: View all past sharings
+      subtitle: Latest slides & sharings
   - infopic:
       title: Research Insights
       description: Discover the challenges and experiences that users encounter on
