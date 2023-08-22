@@ -98,3 +98,5 @@ Hosted workshops for schools to co-create new Isomer ideas and templates with th
 
 **Engaging & visual content**
 - Users value pictures and graphics to give better context and a better sense of the school environment and culture.
+
+![A list of website best practices with quotes from parents](/images/best_practices.png)
