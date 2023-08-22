@@ -3,8 +3,9 @@ title: Research Insights
 permalink: /research-insights/
 description: ""
 ---
-#### **About this section** ####
-This section contains specific research insights that are more relevant toward schools that are using Isomer.
+*This section contains specific research insights that are more relevant toward schools that are using Isomer. Research was done in August 2022.*
+
+---
 
 #### **Our Research for Schools** ####
 
@@ -81,6 +82,8 @@ Hosted workshops for schools to co-create new Isomer ideas and templates with th
     
 *   In most cases, pop-ups have not been coded properly, meaning they re-appear every time the user enters the site. This forces them to repeatedly close it every time they come back to the home page.
 ![Example of a pop-up on a school website](/images/Research%20Insight%203.png)
+
+![A worksheet with quotes from parents on their challenges with school websites](/images/current_challenges.png)
 
 #### **What users value in school websites** ####
 
