@@ -6,9 +6,9 @@ colors:
   secondary-color: "#38425c"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#38425c"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#38425c"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
@@ -51,9 +51,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dsyletvf930s6.amplifyapp.com
 prod: https://master.dsyletvf930s6.amplifyapp.com
-resources_name: resource-room-1
+resources_name: resources
 shareicon: /images/isomer-logo.svg
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""

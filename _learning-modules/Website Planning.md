@@ -33,11 +33,11 @@ To create an effective website, it is important to first plan the type of conten
 
 #### **Examples of well-planned websites** ####
 
-Take a look at the [Singapore Institute of Retail Studies’](https://www.sirs.edu.sg/) website as an example. We can easily break down their website using the same framework:
+Take a look at the [CRIS Singapore's](https://www.cris.sg/) website as an example. We can easily break down their website using the same framework:
 
-*   **Main Audience** - People that might be interested in their programmes or in joining the industry.
-*   **Objective** - To inform their audiences about their services and provide related industry updates
-*   **Focus** - Different programmes categories are featured at the top, with other relevant industry updates and activities across the website.
+*   **Main Audience** - People that might be interested in their programmes, what they do or in joining the industry.
+*   **Objective** - To inform their audiences about their services and provide related industry updates.
+*   **Focus** - Different programmes categories are featured at the top, with other relevant industry updates, information and activities listed across the website.
 
 ![Example of a well-planned website](/images/Website%20Planning%202.png)
 

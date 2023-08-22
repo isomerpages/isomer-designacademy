@@ -11,20 +11,9 @@ sections:
       subtitle: Craft impactful Isomer sites with effective web design strategies
       url: /contact-us/
       background: /images/Banner.png
-  - infobar:
-      title: Do more with your website
-      description: Isomer Design Academy strives to help organisations craft effective
-        websites that suit their needs.
-      button: About us
-      url: /about/
-  - infopic:
-      title: Learning Modules
-      description: Learn how to create a highly effective website through a series of
-        short modules covering different topics.
-      button: Learn more
-      alt: Image alt text
-      url: /learning-modules/website-planning/
-      image: /images/Learning Modules.png
+  - resources:
+      title: Latest slides & sharings
+      button: View all past sharings
   - infopic:
       title: Research Insights
       description: Discover the challenges and experiences that users encounter on
@@ -34,6 +23,14 @@ sections:
       alt: Image alt text
       image: /images/Research Insights.png
   - infopic:
+      title: Learning Modules
+      description: Learn how to create a highly effective website through a series of
+        short modules covering different topics.
+      button: Learn more
+      alt: Image alt text
+      url: /learning-modules/website-planning/
+      image: /images/Learning Modules.png
+  - infopic:
       title: Website Checklist
       description: Ensure your website is fully prepared for launch by referring to
         our comprehensive checklist.
@@ -41,12 +38,10 @@ sections:
       url: /website-checklist/
       image: /images/Checklist.png
       alt: Image alt text
-  - infopic:
-      title: Build with Isomer
-      description: Ready to start building? Launch a website with us on Isomer.
-      button: try isomer
+  - infobar:
+      title: Ready to start building?
+      description: Join 500+ other sites – We’re already supporting more than 70
+        agencies with their website needs.
+      button: onboard to Isomer
       url: https://www.isomer.gov.sg/
-      image: /images/Build.png
-      alt: Image alt text
 ---
-
