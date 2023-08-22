@@ -18,4 +18,4 @@ image: ""
 
 
 ##### View the workshop slides below:
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbyjZfupcbleTpWcxqBvbxKggZCZv7NyP9NoEbIwyZf9_luUE0MAmQADtJK3v8eXPt_Ly_ct53BYHC/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbyjZfupcbleTpWcxqBvbxKggZCZv7NyP9NoEbIwyZf9_luUE0MAmQADtJK3v8eXPt_Ly_ct53BYHC/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
