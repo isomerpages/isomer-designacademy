@@ -16,18 +16,18 @@ sections:
       button: All past sharings
       title: Latest slides & sharings
   - infopic:
-      title: '"I think the website is..."'
+      title: '"Where do I go? What am I supposed to click into?"'
       description: Discover the challenges and experiences that users encounter on
         current school websites through our research.
-      button: Read more
+      button: Let's empathise
       url: /research-insights/
       alt: Image alt text
       image: /images/Research Insights.png
       subtitle: Research Insights
   - infopic:
       title: Website Checklist
-      description: Ensure your website is fully prepared for launch by referring to
-        our comprehensive checklist.
+      description: Ensure your website is models best practices with some quick points
+        to check beforehand.
       button: Refer to checklist
       url: /website-checklist/
       image: /images/Checklist.png
