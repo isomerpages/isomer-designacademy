@@ -25,9 +25,9 @@ sections:
       image: /images/Research Insights.png
       subtitle: Research Insights
   - infopic:
-      title: Website Checklist
-      description: Ensure your website is models best practices with some quick points
-        to check beforehand.
+      title: Do a quick check against best practices
+      description: Ensure your website models best practices with some quick points to
+        check beforehand.
       button: Refer to checklist
       url: /website-checklist/
       image: /images/Checklist.png
