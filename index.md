@@ -9,8 +9,9 @@ sections:
   - hero:
       title: Isomer Design Academy
       subtitle: Craft impactful Isomer sites with effective web design strategies
-      url: /contact-us/
+      url: /learning-modules/website-planning/
       background: /images/Banner.png
+      button: start learning how
   - resources:
       title: Latest slides & sharings
       button: View all past sharings
@@ -22,14 +23,6 @@ sections:
       url: /research-insights/
       alt: Image alt text
       image: /images/Research Insights.png
-  - infopic:
-      title: Learning Modules
-      description: Learn how to create a highly effective website through a series of
-        short modules covering different topics.
-      button: Learn more
-      alt: Image alt text
-      url: /learning-modules/website-planning/
-      image: /images/Learning Modules.png
   - infopic:
       title: Website Checklist
       description: Ensure your website is fully prepared for launch by referring to
