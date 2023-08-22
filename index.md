@@ -14,7 +14,7 @@ sections:
       button: start learning how
   - resources:
       button: View all past sharings
-      subtitle: Latest slides & sharings
+      title: Latest slides & sharings
   - infopic:
       title: '"I think the website is..."'
       description: Discover the challenges and experiences that users encounter on
