@@ -16,7 +16,7 @@ sections:
       button: View all past sharings
       subtitle: Latest slides & sharings
   - infopic:
-      title: What are site visitors thinking?
+      title: '"I think the website is..."'
       description: Discover the challenges and experiences that users encounter on
         current school websites through our research.
       button: Read more
