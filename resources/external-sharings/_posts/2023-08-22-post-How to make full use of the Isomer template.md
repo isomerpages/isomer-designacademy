@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+##### MOE x Isomer Content Sharing Session
+
 *This sharing was done in collaboration with the MOE for a content design sharing held on 22 Aug 2023*
 
 ---
