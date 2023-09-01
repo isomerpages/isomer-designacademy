@@ -1,11 +1,13 @@
 ---
-title: MOE x Isomer Content Sharing Session
+title: How to make full use of the Isomer template
 permalink: /resources/external-sharings/22-aug-2023/
-date: 2023-08-20
+date: 2023-08-22
 layout: post
 description: ""
 image: ""
 ---
+##### MOE x Isomer Content Sharing Session
+
 *This sharing was done in collaboration with the MOE for a content design sharing held on 22 Aug 2023*
 
 ---
