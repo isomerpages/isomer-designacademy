@@ -1,0 +1,10 @@
+logo: /images/Logo 2.png
+links:
+  - title: About us
+    url: /about/
+  - title: Learning Modules
+    collection: learning-modules
+  - title: Website Checklist
+    url: /website-checklist/
+  - title: Build with Isomer
+    url: https://www.isomer.gov.sg/
